@@ -1,0 +1,1001 @@
+Record_ID,Batch_ID,Production_Date,Production_Line,Supplier_Name,Spice_Type,Raw_Material_Weight,Weight_Unit,Moisture_Level,Machine_Temperature,Machine_Speed,Production_Time,Raw_Material_Quality,Final_Product_Weight,Quality_Result
+30089,BCH-8807,2022-03-15,Line 2,Guntur Spices Co,Coriander Powder,1697.28,kg,9.872,73.0,1371.4,31.47,Grade A,1428.65,PASS
+33437,BCH-3469,2023-02-11,Line 3,Guntur Spice Co.,Chilli Powder,1911.72,kg,9.062,73.23,1012.2,30.55,Grade B,1764.98,PASS
+200598,BCH-6698,2024-05-06,Line 2,Hyderabad Spice Traders,Garam Masala,1115.01,kg,8.415,77.05,1086.0,36.06,Grade A,1065.26,FAIL
+195302,BCH-9966,2022-10-15,Line 3,hyd spice traders,Coriander Powder,1820614.09,grams,7.822,83.5,1202.1,35.3,Grade C,1489483.52,PASS
+114312,BCH-9597,2024-09-23,Line 3,Malabar GM Guild,Turmeric Powder,949.21,kg,8.548,68.18,1153.2,40.81,Grade B,830.07,PASS
+142521,BCH-7787,2022-05-31,Line 3,Deccan Spices Organics,Garam Masala,330.45,kg,6.216,77.6,1334.3,23.16,Grade A,267.8,PASS
+238937,BCH-9751,2022-10-13,Line 2,Nizamabad Turmeric Hub,Turmeric Powder,1613.59,kg,6.778,74.35,1150.2,47.36,Grade B,1413.69,PASS
+210677,BCH-9800,2022-06-18,Line 1,Nizamabad Turmeric,Coriander Powder,944.63,kg,10.514,69.13,1295.4,25.86,Grade A,790.02,PASS
+32765,BCH-6370,2023-06-10,Line 2,Guntur Spices Company,Chilli Powder,1851492.73,grams,9.402,69.02,1166.4,34.64,Grade B,1704291.78,PASS
+220524,BCH-6191,2022-10-23,Line 1,Telangana Agro Mills,Turmeric Powder,1459245.01,grams,7.235,76.48,1172.1,56.7,Grade A,1270400.47,FAIL
+11071,BCH-5177,2024-03-22,Line 1,Malabar Masala Guild,Chilli Powder,1390.2,kg,5.713,68.21,1368.8,36.29,Grade C,1176.33,FAIL
+245006,BCH-6357,2024-05-16,Line 2,Deccan Spices Organics,Turmeric Powder,1746.53,kg,7.037,82.02,1445.5,52.17,Grade C,1519.64,FAIL
+48643,BCH-3614,2024-04-22,Line 2,Hyderabad Spice Traders,Turmeric Powder,525.49,kg,11.78,79.42,1145.2,34.8,Grade A,492.47,PASS
+287612,BCH-3480,2023-05-15,Line 3,Tel Agro Mills,Turmeric Powder,565.16,kg,5.876,62.79,924.0,40.07,Grade B,517.74,PASS
+274852,BCH-9847,2022-06-30,Line 1,Guntur Spices Company,Garam Masala,825.57,kg,6.888,69.94,1282.9,28.19,Grade B,707.02,PASS
+63788,BCH-5569,2024-11-11,Line 3,Malabar GM Guild,Coriander Powder,271.44,kg,10.485,64.11,1272.5,39.13,Grade A,241.51,PASS
+238060,BCH-3127,2022-09-12,Line 2,Nizamabad Turmeric,Chilli Powder,1070.78,kg,10.8,70.46,1600.0,27.24,Grade C,883.87,FAIL
+189418,BCH-5901,2023-04-19,Line 2,Malabar Masala Guild,Coriander Powder,878906.98,grams,10.32,81.44,1153.6,28.39,Grade C,819275.92,FAIL
+195795,BCH-4956,2022-07-01,Line 3,Malabar Garam Masala Guild,Garam Masala,737.01,kg,4.798,95.29,1309.1,35.9,Grade C,613.78,FAIL
+259393,BCH-7874,2023-09-06,Line 2,Hyderabad Spice Traders,Chilli Powder,1145071.16,grams,12.241,81.63,1455.6,28.42,Grade A,930760.49,FAIL
+67169,BCH-8908,2023-11-13,Line 1,Deccan Spice Organics,Chilli Powder,1721.18,kg,6.942,83.12,1073.1,40.83,Grade B,1433.84,PASS
+48319,BCH-6777,2022-11-13,Line 2,Nizam Turmeric Hub,Garam Masala,1394204.16,grams,10.105,76.24,900.0,31.46,Grade B,1202232.12,FAIL
+94818,BCH-7859,2024-01-28,Line 1,HYD Spice Traders,Chilli Powder,852.9,kg,6.874,75.93,1130.7,30.35,Grade A,712.57,PASS
+79200,BCH-9488,2024-05-04,Line 3,Telangana Agro Mills,Garam Masala,1439.69,kg,8.322,65.56,1276.3,36.07,Grade B,1180.88,FAIL
+230954,BCH-9491,2022-07-27,Line 2,hyd spice traders,Turmeric Powder,449619.04,grams,10.348,73.57,1077.7,29.36,Grade A,371450.49,PASS
+172222,BCH-7968,2024-12-21,Line 2,Hyderabad Spice Traders,Chilli Powder,648.96,kg,5.747,66.94,1253.0,39.25,Grade A,528.34,PASS
+138484,BCH-6604,2023-01-29,Line 1,Malabar Masala Guild,Garam Masala,785.54,kg,6.5,88.56,1251.3,14.52,Grade A,680.81,FAIL
+18235,BCH-5907,2022-02-19,Line 1,Telangana Agro Mills,Turmeric Powder,1346.92,kg,5.869,70.05,1117.2,30.77,Grade A,1266.91,PASS
+21560,BCH-7944,2024-08-17,Line 3,Malabar Masala Guild,Coriander Powder,222.43,kg,12.122,63.08,1338.8,30.43,Grade C,183.39,FAIL
+293248,BCH-2948,2023-06-18,Line 3,Guntur Spices Company,Coriander Powder,1707.45,kg,6.772,73.11,1203.4,27.81,Grade C,1612.06,PASS
+81614,BCH-2639,2022-03-10,Line 2,Nizamabad Turmeric Hub,Chilli Powder,1031.91,kg,10.84,80.09,1387.0,32.62,Grade B,834.27,PASS
+178813,BCH-6409,2022-09-06,Line 2,Guntur Spices Company,Coriander Powder,811.52,kg,10.849,78.7,1560.8,40.58,Grade C,707.29,FAIL
+38617,BCH-0845,2023-08-19,Line 2,Telangana Agro Mill,Chilli Powder,1049.08,kg,10.021,76.3,1531.4,24.64,Grade B,854.6,PASS
+247901,BCH-4696,2023-01-01,Line 1,Deccan Spices Organics,Garam Masala,1187.8,kg,9.955,91.53,1239.1,29.18,Grade B,1008.74,PASS
+217468,BCH-4191,2022-01-05,Line 3,Deccan Spice Organics,Chilli Powder,1280.55,kg,4.738,78.51,1164.6,32.97,Grade A,1019.84,PASS
+203071,BCH-8007,2022-04-06,Line 1,Malabar Garam Masala Guild,Turmeric Powder,511.22,kg,7.235,75.72,1296.7,33.92,Grade B,452.92,PASS
+197086,BCH-8044,2023-06-14,Line 2,Guntur Spice Co.,Turmeric Powder,1658.34,kg,12.472,90.94,1183.1,31.43,Grade A,1557.09,FAIL
+177687,BCH-8083,2022-08-26,Line 3,Guntur Spice Co.,Coriander Powder,913773.72,grams,12.909,71.9,1131.8,20.98,Grade C,772093.39,PASS
+43616,BCH-8083,2022-02-19,Line 1,Malabar Garam Masala Guild,Coriander Powder,1949.27,kg,9.236,81.56,982.7,38.14,Grade B,1773.72,FAIL
+16487,BCH-6708,2023-04-08,Line 2,Malabar Garam Masala Guild,Coriander Powder,563.45,kg,5.568,71.86,1171.4,48.07,Grade A,515.42,PASS
+190727,BCH-3863,2024-10-13,Line 2,Malabar GM Guild,Chilli Powder,733807.78,grams,7.29,81.52,1257.1,12.89,Grade A,663452.41,FAIL
+38592,BCH-1404,2024-10-26,Line 3,Guntur Spice Co.,Turmeric Powder,1529.41,kg,8.747,71.35,1051.8,27.91,Grade B,1316.67,PASS
+195504,BCH-4876,2023-05-17,Line 2,Nizam Turmeric Hub,Coriander Powder,1956.57,kg,7.637,82.5,1283.3,45.62,Grade B,1669.85,PASS
+165696,BCH-9163,2022-08-14,Line 1,Malabar Garam Masala Guild,Garam Masala,1401.4,kg,10.04,71.28,1282.2,23.76,Grade C,1319.07,PASS
+182346,BCH-8565,2023-08-02,Line 2,Nizamabad Turmeric Hub,Chilli Powder,948233.93,grams,8.625,53.83,1298.1,53.63,Grade A,786105.43,FAIL
+146967,BCH-0180,2023-01-12,Line 2,Guntur Spices Co,Turmeric Powder,1752.51,kg,3.74,74.37,1290.3,17.89,Grade A,1431.72,FAIL
+61732,BCH-9033,2023-10-23,Line 2,Guntur Spice Co.,Garam Masala,643383.05,grams,10.249,73.06,1284.5,19.18,Grade C,506751.67,FAIL
+217135,BCH-1130,2024-03-30,Line 3,Nizam Turmeric Hub,Chilli Powder,1371.02,kg,8.264,78.0,1464.4,27.98,Grade A,1257.54,PASS
+64335,BCH-3045,2023-11-30,Line 3,Nizam Turmeric Hub,Coriander Powder,1255.96,kg,10.403,72.73,1271.9,30.18,Grade A,1157.12,PASS
+16145,BCH-0888,2022-07-20,Line 3,Guntur Spice Co.,Turmeric Powder,240.28,kg,10.551,96.86,962.4,25.61,Grade A,217.7,PASS
+273750,BCH-7767,2024-06-15,Line 3,Malabar Garam Masala Guild,Turmeric Powder,1499.69,kg,7.795,86.28,1364.0,37.01,Grade A,1366.8,FAIL
+91645,BCH-9511,2022-01-25,Line 2,Malabar Masala Guild,Turmeric Powder,798985.72,grams,7.988,66.31,1305.4,25.09,Grade A,751219.37,PASS
+32687,BCH-0795,2024-02-12,Line 2,Telangana Agro Mills,Garam Masala,1111.24,kg,10.925,83.52,900.0,36.77,Grade A,964.56,PASS
+84751,BCH-4321,2024-03-07,Line 1,Guntur Spices Co,Garam Masala,544.87,kg,7.748,68.65,1132.5,35.45,Grade A,478.84,PASS
+142584,BCH-5286,2024-11-02,Line 3,Nizam Turmeric Hub,Turmeric Powder,1814.54,kg,4.049,65.79,1129.7,22.88,Grade B,1554.06,PASS
+161007,BCH-1607,2023-01-25,Line 2,Deccan Spices Organics,Garam Masala,985.14,kg,12.982,62.43,1253.1,37.63,Grade A,843.81,FAIL
+119011,BCH-4589,2022-07-08,Line 1,Telangana Agro Mill,Turmeric Powder,791.0,kg,6.516,58.06,1253.4,31.08,Grade A,679.84,PASS
+76960,BCH-1197,2023-03-14,Line 3,hyd spice traders,Chilli Powder,1902275.85,grams,6.3,78.49,1362.1,28.17,Grade A,1777008.52,FAIL
+71129,BCH-1280,2024-10-19,Line 1,Guntur Spices Company,Turmeric Powder,1164.54,kg,9.101,81.76,1370.2,46.43,Grade B,985.45,PASS
+34233,BCH-8015,2022-03-22,Line 1,Malabar GM Guild,Chilli Powder,1518642.96,grams,6.906,80.08,1177.1,28.05,Grade A,1379302.4,PASS
+23225,BCH-3509,2024-06-25,Line 2,Guntur Spice Co.,Chilli Powder,428802.27,grams,5.282,65.48,1363.6,38.57,Grade A,392446.29,PASS
+168441,BCH-1505,2024-08-16,Line 3,Nizam Turmeric Hub,Garam Masala,1352.82,kg,9.421,67.81,1241.3,35.29,Grade B,1259.18,FAIL
+145837,BCH-0031,2024-09-01,Line 3,Malabar Garam Masala Guild,Coriander Powder,200273.85,grams,6.646,74.54,1063.3,36.14,Grade C,171328.9,FAIL
+5738,BCH-5082,2023-03-19,Line 1,Hyderabad Spice Trader,Chilli Powder,1469.97,kg,7.641,72.33,1217.7,32.01,Grade C,1379.05,FAIL
+58059,BCH-6702,2023-12-06,Line 2,Telangana Agro Mill,Chilli Powder,638852.39,grams,7.853,71.66,1068.7,37.31,Grade B,525794.75,PASS
+137703,BCH-4163,2024-11-06,Line 1,hyd spice traders,Turmeric Powder,662078.58,grams,9.342,58.4,1158.6,32.17,Grade C,600830.29,FAIL
+152678,BCH-5569,2024-08-27,Line 3,Deccan Spices Organics,Garam Masala,364235.84,grams,8.654,78.44,1035.3,46.24,Grade C,335200.18,PASS
+274201,BCH-9923,2022-11-21,Line 2,Telangana Agro Mill,Coriander Powder,1304.76,kg,8.126,77.87,1413.2,46.63,Grade A,1225.39,PASS
+240844,BCH-1494,2023-08-11,Line 3,Telangana Agro Mill,Coriander Powder,1432.06,kg,9.734,65.96,1289.6,19.56,Grade A,1345.87,PASS
+16593,BCH-2506,2024-03-04,Line 1,Guntur Spices Company,Chilli Powder,1941565.6,grams,8.098,80.87,1304.1,30.22,Grade A,1649831.39,PASS
+20168,BCH-2461,2024-08-11,Line 2,Guntur Spice Co.,Coriander Powder,461.58,kg,8.041,65.91,1166.8,32.46,Grade A,418.53,PASS
+29308,BCH-4958,2022-11-02,Line 1,Tel Agro Mills,Turmeric Powder,1262.74,kg,9.572,82.27,1442.2,34.48,Grade B,1039.64,PASS
+185257,BCH-1116,2023-11-17,Line 3,Malabar Garam Masala Guild,Chilli Powder,747.67,kg,6.22,73.62,1253.8,32.46,Grade C,711.63,PASS
+94813,BCH-9152,2023-10-07,Line 3,Nizamabad Turmeric Hub,Chilli Powder,1992749.67,grams,4.364,76.16,1386.3,25.68,Grade C,1678318.91,PASS
+155421,BCH-4470,2023-05-28,Line 3,Hyderabad Spice Traders,Coriander Powder,887.26,kg,7.269,75.27,1344.7,37.7,Grade D,798.37,FAIL
+207024,BCH-7927,2024-05-14,Line 1,Deccan Spices Organics,Chilli Powder,1182.5,kg,6.637,77.11,1558.0,20.9,Grade A,1122.98,FAIL
+17779,BCH-2410,2022-02-17,Line 1,Nizam Turmeric Hub,Garam Masala,1133.65,kg,6.49,81.02,1232.0,44.0,Grade B,989.98,FAIL
+275956,BCH-4091,2024-08-14,Line 2,Telangana Agro Mill,Garam Masala,1079.52,kg,6.045,76.54,1137.7,37.79,Grade B,988.02,PASS
+181603,BCH-5413,2024-02-23,Line 1,Hyderabad Spice Trader,Garam Masala,604029.78,grams,8.434,81.7,1050.0,44.02,Grade A,532217.9,PASS
+100247,BCH-2015,2023-04-16,Line 2,Malabar Masala Guild,Chilli Powder,1746.55,kg,4.219,73.79,1361.4,31.37,Grade D,1568.62,FAIL
+198829,BCH-7648,2024-12-23,Line 1,Nizamabad Turmeric,Chilli Powder,948554.18,grams,8.253,80.06,1347.0,21.67,Grade A,865924.38,PASS
+181807,BCH-0793,2023-08-17,Line 1,Deccan Organic Spices,Garam Masala,1088725.26,grams,7.794,64.91,1102.5,33.74,Grade A,913762.29,PASS
+284131,BCH-0079,2024-02-09,Line 3,Deccan Spice Organics,Turmeric Powder,718.91,kg,12.393,67.41,1326.3,32.42,Grade A,636.21,FAIL
+205098,BCH-7767,2022-10-26,Line 1,hyd spice traders,Turmeric Powder,1966.96,kg,7.549,70.45,1600.0,54.42,Grade A,1786.44,FAIL
+263196,BCH-2306,2024-05-07,Line 2,Nizamabad Turmeric Hub,Garam Masala,1788.23,kg,9.693,66.92,1110.1,36.95,Grade A,1620.51,PASS
+38700,BCH-3019,2022-01-14,Line 3,Guntur Spices Company,Garam Masala,1546.01,kg,8.194,94.65,1298.7,38.72,Grade B,1287.34,PASS
+253310,BCH-3849,2024-08-07,Line 3,Telangana Agro Mills,Garam Masala,1498229.7,grams,7.999,65.91,1083.3,22.81,Grade C,1340770.81,FAIL
+7899,BCH-9025,2022-08-08,Line 1,Tel Agro Mills,Garam Masala,1716.74,kg,8.056,77.0,1369.0,45.29,Grade A,1398.41,PASS
+22392,BCH-8891,2022-04-10,Line 1,Telangana Agro Mills,Chilli Powder,1268.42,kg,9.113,87.44,1220.7,39.18,Grade B,1056.04,PASS
+210575,BCH-4741,2022-02-21,Line 3,Guntur Spices Co,Coriander Powder,904284.76,grams,8.956,74.26,1446.6,52.03,Grade B,759388.14,PASS
+62629,BCH-6528,2024-05-07,Line 2,Guntur Spices Company,Coriander Powder,1173.11,kg,5.992,70.42,1121.6,40.79,Grade C,1092.31,PASS
+190805,BCH-0849,2022-10-14,Line 2,Hyderabad Spice Traders,Turmeric Powder,1826.36,kg,12.486,78.81,1243.6,26.28,Grade C,1580.59,FAIL
+36281,BCH-5548,2022-05-06,Line 3,Guntur Spice Co.,Chilli Powder,1935351.24,grams,3.707,68.61,1068.0,23.97,Grade B,1707940.68,PASS
+134189,BCH-8865,2024-12-23,Line 2,Malabar GM Guild,Coriander Powder,1501449.58,grams,8.465,64.85,1287.3,33.97,Grade A,1204709.03,FAIL
+71090,BCH-7753,2024-02-13,Line 1,Deccan Organic Spices,Coriander Powder,1534155.02,grams,8.447,74.66,1100.0,50.55,Grade C,1357398.95,PASS
+273353,BCH-8199,2023-12-14,Line 2,Deccan Organic Spices,Turmeric Powder,324553.46,grams,6.18,69.69,1039.5,42.76,Grade A,288892.34,FAIL
+183561,BCH-0809,2024-11-21,Line 1,Hyderabad Spice Trader,Garam Masala,978.55,kg,7.948,84.61,1132.7,51.06,Grade B,786.0,PASS
+128798,BCH-8520,2023-02-21,Line 1,Telangana Agro Mill,Chilli Powder,343.53,kg,7.838,74.78,1239.6,45.67,Grade A,315.78,PASS
+106470,BCH-6081,2024-12-23,Line 2,Malabar Garam Masala Guild,Garam Masala,585.19,kg,3.077,78.24,1074.2,44.15,Grade A,468.14,PASS
+122443,BCH-9834,2023-11-23,Line 2,Guntur Spices Co,Chilli Powder,1315.9,kg,2.401,87.29,1204.0,26.58,Grade A,1164.49,PASS
+117976,BCH-9970,2024-06-03,Line 3,Malabar Masala Guild,Turmeric Powder,1575.65,kg,7.686,73.29,1267.6,29.34,Grade A,1320.1,PASS
+146367,BCH-8016,2022-11-05,Line 3,Telangana Agro Mills,Garam Masala,1679.97,kg,7.575,65.65,1295.7,25.66,Grade A,1579.72,PASS
+51822,BCH-6544,2022-01-16,Line 2,Nizamabad Turmeric Hub,Coriander Powder,1834.03,kg,12.901,75.17,1249.1,38.95,Grade C,1674.58,FAIL
+38769,BCH-4245,2023-12-06,Line 1,HYD Spice Traders,Chilli Powder,528.42,kg,5.434,71.02,1417.1,33.72,Grade A,454.25,PASS
+121792,BCH-0086,2024-01-21,Line 2,Deccan Spice Organics,Garam Masala,416.46,kg,7.551,80.8,1392.7,49.76,Grade A,358.69,PASS
+52783,BCH-4169,2022-07-21,Line 1,Guntur Spices Co,Chilli Powder,1440.18,kg,11.343,63.01,1301.1,39.54,Grade C,1257.71,FAIL
+298309,BCH-1996,2024-04-17,Line 2,Malabar Masala Guild,Chilli Powder,1342.9,kg,8.952,74.64,1365.7,18.09,Grade B,1209.04,PASS
+143911,BCH-2177,2024-02-23,Line 3,Malabar Masala Guild,Garam Masala,342.2,kg,9.453,63.56,1145.4,39.45,Grade C,321.24,FAIL
+101181,BCH-2780,2023-06-28,Line 3,Telangana Agro Mill,Garam Masala,889300.0,grams,8.106,80.8,1130.3,25.08,Grade B,719820.53,PASS
+292878,BCH-0957,2022-08-21,Line 3,Deccan Spices Organics,Garam Masala,1712535.76,grams,4.604,79.89,1296.9,10.0,Grade A,1480359.67,FAIL
+141356,BCH-6865,2022-08-26,Line 2,Tel Agro Mills,Chilli Powder,1739.7,kg,10.076,80.58,1251.3,48.94,Grade A,1519.01,PASS
+67317,BCH-8555,2024-07-20,Line 3,Guntur Spices Co,Coriander Powder,846.52,kg,7.495,76.04,1279.3,40.98,Grade A,756.62,PASS
+46887,BCH-8908,2022-02-21,Line 1,Malabar Masala Guild,Coriander Powder,1191779.74,grams,6.308,68.87,1306.7,59.14,Grade B,999023.07,PASS
+131140,BCH-9681,2023-03-11,Line 1,HYD Spice Traders,Garam Masala,528.62,kg,9.84,75.63,957.3,44.51,Grade B,500.23,PASS
+83923,BCH-4040,2022-01-05,Line 1,HYD Spice Traders,Chilli Powder,436929.29,grams,6.293,80.53,1084.9,60.35,Grade B,358429.33,PASS
+178604,BCH-0510,2023-09-14,Line 1,Malabar GM Guild,Chilli Powder,1552.89,kg,6.154,75.74,1254.1,43.85,Grade C,1441.33,PASS
+28012,BCH-1000,2022-01-16,Line 3,Malabar Masala Guild,Garam Masala,1627117.0,grams,14.999,79.28,1363.7,28.83,Grade B,1448800.38,PASS
+170258,BCH-3258,2024-04-13,Line 1,Nizam Turmeric Hub,Chilli Powder,921.13,kg,8.435,77.18,1300.4,29.4,Grade A,849.89,PASS
+186369,BCH-9256,2023-08-10,Line 2,Malabar GM Guild,Chilli Powder,319.14,kg,9.223,79.6,1237.0,45.66,Grade D,278.19,FAIL
+157207,BCH-3742,2022-08-01,Line 3,Guntur Spices Company,Garam Masala,911.31,kg,5.593,80.44,1051.7,22.27,Grade C,773.91,FAIL
+260021,BCH-0571,2022-03-31,Line 2,Deccan Spices Organics,Turmeric Powder,1109.53,kg,7.969,79.48,1176.4,24.37,Grade A,1002.63,FAIL
+27735,BCH-9734,2024-10-31,Line 2,Telangana Agro Mills,Garam Masala,893159.57,grams,9.234,86.77,1114.0,28.86,Grade A,798246.97,PASS
+278773,BCH-9619,2023-08-24,Line 3,Nizam Turmeric Hub,Garam Masala,225836.6,grams,6.388,74.34,1319.4,36.69,Grade A,184531.13,PASS
+260216,BCH-0146,2023-08-09,Line 3,Malabar Garam Masala Guild,Garam Masala,1361040.38,grams,10.251,73.71,1282.9,45.07,Grade A,1282982.51,PASS
+169684,BCH-0793,2022-04-30,Line 1,Tel Agro Mills,Turmeric Powder,531626.43,grams,10.921,72.81,1188.2,47.75,Grade D,441964.04,FAIL
+43604,BCH-1931,2024-08-13,Line 3,Telangana Agro Mills,Garam Masala,1108010.08,grams,7.17,67.58,1336.0,44.09,Grade D,1004205.14,FAIL
+17150,BCH-7508,2024-01-03,Line 1,Malabar GM Guild,Coriander Powder,1829.88,kg,6.672,82.42,1216.2,31.39,Grade A,1612.31,PASS
+153463,BCH-4488,2023-02-06,Line 3,Malabar Masala Guild,Turmeric Powder,1399285.75,grams,8.062,65.16,1225.9,42.86,Grade D,1260541.3,FAIL
+166486,BCH-1431,2022-12-04,Line 3,Telangana Agro Mill,Garam Masala,803396.82,grams,13.957,63.97,1302.3,45.37,Grade C,730940.59,FAIL
+32418,BCH-0534,2023-12-03,Line 2,Nizamabad Turmeric,Chilli Powder,612.36,kg,6.491,73.02,1290.9,17.18,Grade B,545.75,FAIL
+188153,BCH-7721,2024-08-18,Line 2,hyd spice traders,Turmeric Powder,1595034.61,grams,7.322,80.4,1161.8,29.79,Grade C,1393256.57,PASS
+55482,BCH-3286,2024-07-01,Line 2,Nizamabad Turmeric,Turmeric Powder,502161.09,grams,8.024,90.08,1315.5,40.26,Grade A,430625.66,PASS
+127926,BCH-4310,2024-07-26,Line 3,Deccan Spice Organics,Garam Masala,1169.85,kg,7.109,74.68,900.0,28.45,Grade C,1091.93,FAIL
+124089,BCH-9025,2022-04-18,Line 1,Nizamabad Turmeric,Chilli Powder,1554.98,kg,10.121,69.39,1026.6,35.7,Grade B,1271.91,PASS
+233157,BCH-5692,2023-01-31,Line 3,Guntur Spices Company,Chilli Powder,424272.66,grams,11.148,72.82,1204.9,46.33,Grade A,395704.95,PASS
+217303,BCH-0922,2024-09-21,Line 2,Guntur Spices Co,Coriander Powder,1838.77,kg,8.092,68.2,1318.5,49.78,Grade A,1746.68,PASS
+127205,BCH-4973,2024-01-02,Line 2,Hyderabad Spice Trader,Garam Masala,1762.54,kg,7.252,62.13,1408.7,20.75,Grade C,1509.18,FAIL
+154667,BCH-4781,2024-04-16,Line 2,Guntur Spices Co,Turmeric Powder,754.65,kg,7.466,71.97,1057.5,36.1,Grade A,702.83,PASS
+298196,BCH-9880,2022-03-26,Line 1,hyd spice traders,Chilli Powder,1629.48,kg,11.574,81.01,1064.2,32.43,Grade B,1528.07,PASS
+253655,BCH-4151,2024-01-31,Line 1,Telangana Agro Mills,Coriander Powder,1675895.11,grams,9.59,69.96,1156.5,47.31,Grade A,1553053.86,PASS
+42172,BCH-9206,2022-12-13,Line 3,Guntur Spices Co,Garam Masala,1476.68,kg,5.113,64.82,1209.2,28.54,Grade B,1274.72,PASS
+123316,BCH-2453,2023-10-21,Line 1,Nizamabad Turmeric,Garam Masala,1920722.75,grams,8.436,80.07,1024.4,21.39,Grade C,1510827.68,FAIL
+70800,BCH-8479,2023-05-04,Line 2,Guntur Spices Company,Turmeric Powder,1055.3,kg,8.601,90.66,1384.8,34.06,Grade A,947.61,PASS
+294967,BCH-2839,2023-09-01,Line 1,Nizam Turmeric Hub,Coriander Powder,1568.2,kg,5.882,75.92,1322.4,40.45,Grade B,1356.26,PASS
+205737,BCH-7860,2024-10-25,Line 3,Guntur Spices Co,Chilli Powder,582521.72,grams,10.018,87.31,1321.0,42.91,Grade B,511856.13,PASS
+216771,BCH-1747,2023-06-06,Line 1,Guntur Spices Company,Turmeric Powder,1988.7,kg,10.386,70.6,1409.8,22.32,Grade C,1627.33,PASS
+93421,BCH-6749,2023-07-28,Line 2,Guntur Spice Co.,Garam Masala,443.89,kg,6.244,87.51,1318.2,38.49,Grade C,390.13,FAIL
+163978,BCH-7625,2022-11-14,Line 1,Guntur Spices Co,Garam Masala,417981.29,grams,9.759,54.63,1304.4,24.86,Grade B,391258.87,PASS
+181743,BCH-2687,2024-03-05,Line 3,Hyderabad Spice Traders,Coriander Powder,1869.29,kg,12.972,78.75,1205.4,41.19,Grade A,1532.71,FAIL
+167015,BCH-1883,2024-10-15,Line 1,hyd spice traders,Garam Masala,1755.24,kg,11.727,63.7,1362.3,32.81,Grade C,1591.75,FAIL
+221034,BCH-7998,2024-01-29,Line 3,Telangana Agro Mill,Garam Masala,733.64,kg,10.656,82.28,1157.3,46.27,Grade A,647.7,PASS
+116574,BCH-4483,2022-08-08,Line 2,Deccan Spices Organics,Garam Masala,453.31,kg,7.678,78.2,1340.7,21.45,Grade B,368.08,PASS
+15441,BCH-4815,2022-03-09,Line 2,HYD Spice Traders,Coriander Powder,1102.88,kg,5.555,79.81,1343.1,30.08,Grade B,928.27,PASS
+117951,BCH-1263,2023-11-27,Line 1,Guntur Spices Co,Garam Masala,1480.14,kg,7.149,74.77,1172.6,28.73,Grade A,1189.57,PASS
+36076,BCH-4396,2024-04-01,Line 1,Malabar Masala Guild,Garam Masala,206.87,kg,10.307,72.27,1481.5,39.09,Grade A,188.47,PASS
+66353,BCH-0934,2024-01-20,Line 3,Malabar Garam Masala Guild,Chilli Powder,1070.28,kg,9.076,80.55,1398.0,27.21,Grade B,869.89,PASS
+185495,BCH-3022,2024-10-28,Line 2,Guntur Spices Co,Chilli Powder,1097802.51,grams,7.851,78.6,1434.3,24.05,Grade A,993741.21,PASS
+204420,BCH-2723,2023-11-27,Line 3,Deccan Spice Organics,Garam Masala,307.68,kg,8.062,83.63,1010.5,39.64,Grade A,279.07,FAIL
+245925,BCH-6698,2022-05-11,Line 1,Nizamabad Turmeric,Chilli Powder,1273.21,kg,9.427,86.75,1182.9,43.5,Grade D,1025.59,FAIL
+299192,BCH-2823,2024-01-15,Line 3,Deccan Spice Organics,Turmeric Powder,1584.44,kg,9.146,80.65,1128.3,41.39,Grade B,1298.08,FAIL
+142577,BCH-6826,2023-07-23,Line 3,Nizamabad Turmeric Hub,Chilli Powder,689.7,kg,7.683,69.77,1319.1,43.56,Grade A,641.94,FAIL
+136086,BCH-2461,2024-11-16,Line 2,Malabar Garam Masala Guild,Coriander Powder,1535.25,kg,7.942,86.15,1336.0,30.84,Grade A,1318.18,PASS
+293876,BCH-6691,2022-08-22,Line 2,Nizamabad Turmeric,Chilli Powder,205118.48,grams,5.476,87.06,1283.8,37.76,Grade A,181404.92,FAIL
+41782,BCH-8502,2022-11-29,Line 1,Guntur Spices Co,Coriander Powder,348.68,kg,7.873,69.53,1391.1,34.3,Grade A,318.51,PASS
+166160,BCH-2015,2024-02-26,Line 1,Tel Agro Mills,Turmeric Powder,1956251.52,grams,12.601,52.79,1093.2,52.6,Grade B,1851334.39,FAIL
+100039,BCH-6519,2022-05-26,Line 3,Malabar Masala Guild,Coriander Powder,219.34,kg,5.114,75.4,1206.6,28.73,Grade D,173.29,PASS
+187299,BCH-8461,2022-09-09,Line 2,Deccan Organic Spices,Chilli Powder,1710681.58,grams,6.342,64.75,1432.0,32.98,Grade A,1605456.02,FAIL
+238170,BCH-2484,2022-10-10,Line 3,Malabar GM Guild,Coriander Powder,980.54,kg,10.419,74.05,1186.9,23.8,Grade A,868.74,PASS
+175334,BCH-2848,2022-07-31,Line 2,Guntur Spices Co,Coriander Powder,672457.57,grams,6.279,83.24,1136.8,31.01,Grade A,526400.43,PASS
+149795,BCH-6034,2023-04-03,Line 3,Hyderabad Spice Trader,Turmeric Powder,1916.38,kg,4.655,77.67,1450.8,26.93,Grade A,1672.3,PASS
+22092,BCH-8520,2024-05-12,Line 1,Nizamabad Turmeric,Turmeric Powder,827103.23,grams,7.878,81.27,1267.7,17.88,Grade B,764115.17,PASS
+143648,BCH-2921,2023-03-13,Line 3,Malabar Masala Guild,Turmeric Powder,1420.11,kg,6.475,78.2,1400.0,34.95,Grade B,1271.58,FAIL
+148897,BCH-2394,2022-07-12,Line 1,Telangana Agro Mills,Garam Masala,737519.94,grams,6.615,65.46,1375.8,39.59,Grade A,695587.19,FAIL
+143424,BCH-9184,2023-05-01,Line 1,Nizamabad Turmeric Hub,Coriander Powder,1173.22,kg,10.459,82.53,1053.2,53.04,Grade B,1061.31,FAIL
+97494,BCH-6290,2022-04-25,Line 3,Telangana Agro Mill,Coriander Powder,1840.66,kg,10.907,68.29,1061.1,21.43,Grade C,1473.27,PASS
+193620,BCH-0702,2023-10-10,Line 2,Guntur Spice Co.,Chilli Powder,1241.47,kg,5.297,69.26,1210.0,29.34,Grade B,1079.74,PASS
+135951,BCH-8807,2022-11-22,Line 3,Nizam Turmeric Hub,Chilli Powder,945080.12,grams,8.242,78.39,985.3,39.27,Grade A,837212.25,PASS
+31856,BCH-6072,2024-06-11,Line 3,Telangana Agro Mills,Garam Masala,1926600.36,grams,14.337,64.82,1128.8,35.83,Grade C,1752422.02,FAIL
+114485,BCH-8502,2023-03-15,Line 1,Guntur Spices Company,Garam Masala,473.1,kg,8.779,68.52,1190.7,35.38,Grade C,428.56,PASS
+104606,BCH-4608,2023-01-26,Line 1,Nizamabad Turmeric,Chilli Powder,430.93,kg,9.742,84.42,1534.8,36.12,Grade A,375.32,PASS
+177834,BCH-8074,2023-08-20,Line 2,Guntur Spice Co.,Garam Masala,1777.9,kg,6.669,70.39,1424.8,38.56,Grade B,1513.14,PASS
+295511,BCH-1965,2024-02-18,Line 1,Guntur Spice Co.,Coriander Powder,1770006.71,grams,9.847,75.56,1033.7,51.22,Grade A,1656307.05,PASS
+230041,BCH-4497,2022-09-28,Line 1,Deccan Spice Organics,Turmeric Powder,995.94,kg,7.649,66.07,1241.5,29.14,Grade B,849.29,FAIL
+70504,BCH-9460,2023-07-02,Line 2,Hyderabad Spice Traders,Chilli Powder,1352.98,kg,8.531,79.66,1126.1,41.58,Grade B,1160.27,PASS
+48245,BCH-7277,2022-12-23,Line 2,Malabar GM Guild,Coriander Powder,290954.09,grams,9.889,68.97,1098.7,32.91,Grade C,262572.81,FAIL
+124536,BCH-1203,2024-12-21,Line 2,HYD Spice Traders,Coriander Powder,1051.39,kg,11.173,83.93,927.5,31.08,Grade A,899.56,PASS
+223706,BCH-0410,2022-05-07,Line 1,Deccan Spice Organics,Chilli Powder,1271812.03,grams,7.283,83.4,900.0,27.26,Grade C,1112861.74,FAIL
+56282,BCH-5043,2022-09-13,Line 3,Nizamabad Turmeric,Chilli Powder,473495.86,grams,12.32,66.39,1100.4,36.34,Grade A,428425.49,PASS
+111642,BCH-3390,2023-04-19,Line 2,Nizam Turmeric Hub,Turmeric Powder,540136.0,grams,8.338,71.57,1268.1,50.76,Grade A,491717.73,FAIL
+58548,BCH-3258,2023-02-17,Line 3,Guntur Spices Company,Garam Masala,1318514.19,grams,13.18,59.11,1232.8,25.87,Grade A,1179158.7,FAIL
+48055,BCH-5903,2023-04-22,Line 1,Guntur Spice Co.,Coriander Powder,1377.01,kg,12.142,71.81,1243.7,39.95,Grade B,1131.84,FAIL
+31613,BCH-2654,2022-07-13,Line 3,Malabar Garam Masala Guild,Chilli Powder,287.0,kg,8.155,76.81,1342.8,36.09,Grade B,254.48,PASS
+41141,BCH-9703,2024-05-20,Line 2,Tel Agro Mills,Turmeric Powder,1632.47,kg,4.575,74.9,1278.8,53.14,Grade C,1415.41,FAIL
+164038,BCH-6340,2022-05-08,Line 1,Deccan Spice Organics,Coriander Powder,926388.6,grams,11.796,76.3,1078.5,31.87,Grade A,849757.41,FAIL
+217723,BCH-6072,2024-12-07,Line 2,hyd spice traders,Coriander Powder,419.95,kg,4.612,66.8,1148.4,32.98,Grade A,367.03,PASS
+236515,BCH-4605,2023-03-08,Line 1,Deccan Spices Organics,Chilli Powder,550.24,kg,2.199,82.22,1137.3,31.91,Grade D,481.19,PASS
+139923,BCH-8556,2024-10-04,Line 3,Telangana Agro Mill,Garam Masala,1252.0,kg,3.158,85.72,1265.2,46.27,Grade A,1025.44,PASS
+25830,BCH-6140,2024-08-09,Line 2,Malabar GM Guild,Chilli Powder,1584.48,kg,10.182,74.71,1253.9,41.7,Grade C,1321.98,PASS
+194399,BCH-0055,2024-03-25,Line 3,Tel Agro Mills,Garam Masala,1237.07,kg,11.59,75.33,1308.3,42.19,Grade A,1164.4,PASS
+55842,BCH-2290,2022-09-28,Line 2,Deccan Spices Organics,Chilli Powder,1582239.26,grams,6.684,80.01,1424.6,25.63,Grade B,1369108.94,PASS
+148042,BCH-8027,2022-07-03,Line 3,Nizamabad Turmeric,Coriander Powder,1237.75,kg,6.037,94.68,1305.0,50.49,Grade A,1076.1,PASS
+123910,BCH-6367,2022-07-04,Line 2,Deccan Organic Spices,Chilli Powder,1391.93,kg,7.994,78.15,962.6,21.97,Grade A,1105.24,PASS
+3044,BCH-8541,2023-01-21,Line 2,Guntur Spice Co.,Turmeric Powder,705.06,kg,10.264,76.09,1528.5,23.54,Grade B,662.2,PASS
+290639,BCH-2545,2023-07-24,Line 3,Deccan Spices Organics,Chilli Powder,1106263.02,grams,7.22,78.05,1352.0,36.25,Grade A,923835.12,FAIL
+296972,BCH-1968,2023-08-11,Line 2,Nizamabad Turmeric,Chilli Powder,1053.95,kg,9.716,91.11,1088.3,42.85,Grade B,1003.08,PASS
+274846,BCH-3060,2023-08-09,Line 1,Guntur Spices Company,Garam Masala,1526760.83,grams,11.156,71.43,1313.8,35.0,Grade C,1373058.0,PASS
+73603,BCH-9693,2024-12-20,Line 3,Tel Agro Mills,Coriander Powder,625.51,kg,5.627,75.34,1485.7,25.27,Grade C,537.03,FAIL
+186537,BCH-8362,2024-05-05,Line 3,Deccan Spices Organics,Turmeric Powder,1420.38,kg,8.591,78.37,1001.5,34.51,Grade D,1242.74,FAIL
+29782,BCH-2024,2023-01-26,Line 1,Guntur Spices Co,Coriander Powder,759.09,kg,8.394,86.76,1111.8,35.54,Grade B,642.99,PASS
+49528,BCH-4014,2023-10-22,Line 2,Nizamabad Turmeric Hub,Garam Masala,1116.0,kg,7.577,78.48,1090.6,11.37,Grade A,1004.02,FAIL
+283873,BCH-1111,2024-12-24,Line 2,Nizamabad Turmeric,Garam Masala,1170995.98,grams,8.083,70.45,1333.6,18.77,Grade C,974637.49,FAIL
+70526,BCH-3934,2022-06-11,Line 3,HYD Spice Traders,Garam Masala,1041.37,kg,7.12,79.77,1067.0,35.79,Grade C,876.2,FAIL
+210230,BCH-6526,2024-12-12,Line 1,Nizamabad Turmeric Hub,Coriander Powder,1428.91,kg,8.41,81.66,1254.8,32.99,Grade A,1169.75,PASS
+107511,BCH-3549,2023-09-03,Line 2,Guntur Spices Co,Garam Masala,762.28,kg,6.218,82.18,1369.6,13.36,Grade C,714.86,FAIL
+74070,BCH-9615,2023-12-16,Line 1,Deccan Spice Organics,Turmeric Powder,1858494.23,grams,8.313,91.94,1284.2,37.35,Grade B,1574932.25,FAIL
+179148,BCH-7847,2024-01-14,Line 1,Tel Agro Mills,Chilli Powder,985.17,kg,3.417,81.47,1426.0,54.29,Grade A,842.62,PASS
+6824,BCH-7968,2023-01-26,Line 1,Malabar GM Guild,Garam Masala,470859.63,grams,8.854,64.86,1097.8,42.49,Grade B,427928.72,FAIL
+68866,BCH-1294,2024-12-21,Line 1,Deccan Spices Organics,Chilli Powder,741.25,kg,9.339,76.72,1182.3,38.24,Grade C,618.08,FAIL
+274411,BCH-0764,2023-06-10,Line 3,Malabar Masala Guild,Coriander Powder,1582444.84,grams,6.131,72.33,1140.6,41.55,Grade D,1315061.03,FAIL
+97067,BCH-4940,2022-02-07,Line 2,Nizam Turmeric Hub,Chilli Powder,1556.78,kg,7.604,68.81,1386.8,40.11,Grade A,1430.64,PASS
+72114,BCH-4380,2024-05-18,Line 2,Malabar GM Guild,Chilli Powder,1261.01,kg,13.371,66.79,1218.7,29.0,Grade A,1132.78,FAIL
+116153,BCH-3875,2022-08-14,Line 1,Tel Agro Mills,Chilli Powder,1792.02,kg,13.182,83.28,1190.3,29.53,Grade A,1582.82,FAIL
+258524,BCH-1898,2024-10-01,Line 1,Nizamabad Turmeric Hub,Turmeric Powder,1347292.23,grams,3.109,72.19,1210.6,44.16,Grade B,1148789.36,PASS
+264541,BCH-7968,2024-08-28,Line 1,Deccan Spices Organics,Turmeric Powder,1136.63,kg,4.334,64.14,900.0,41.99,Grade B,967.08,PASS
+22495,BCH-8276,2023-01-27,Line 1,Tel Agro Mills,Chilli Powder,1940.66,kg,10.487,82.98,1196.3,60.92,Grade A,1632.87,FAIL
+226919,BCH-6338,2024-05-03,Line 2,Hyderabad Spice Trader,Garam Masala,1074.47,kg,10.19,80.84,1238.0,44.67,Grade A,951.02,PASS
+128326,BCH-4064,2024-03-22,Line 2,Deccan Spice Organics,Chilli Powder,1346.03,kg,7.831,76.61,1428.3,41.37,Grade A,1141.6,FAIL
+167121,BCH-8397,2023-12-09,Line 2,Nizamabad Turmeric,Turmeric Powder,554.42,kg,6.41,64.76,1378.8,36.13,Grade C,524.7,FAIL
+146146,BCH-9274,2022-07-22,Line 2,Nizamabad Turmeric,Coriander Powder,425.83,kg,7.929,63.9,1230.4,40.1,Grade B,339.89,FAIL
+222323,BCH-4245,2024-04-26,Line 3,Nizamabad Turmeric Hub,Turmeric Powder,1608.58,kg,9.813,80.67,1447.9,28.76,Grade B,1369.92,PASS
+143975,BCH-1523,2022-04-12,Line 1,Nizamabad Turmeric,Coriander Powder,1031.51,kg,8.628,74.8,1232.3,52.5,Grade A,930.72,FAIL
+136810,BCH-0361,2023-02-20,Line 3,Telangana Agro Mill,Coriander Powder,1479996.68,grams,7.538,75.35,1317.3,31.7,Grade B,1312833.06,FAIL
+67831,BCH-0792,2023-01-21,Line 3,Nizam Turmeric Hub,Chilli Powder,973.42,kg,7.906,83.14,1251.1,25.81,Grade A,802.69,PASS
+12776,BCH-3127,2022-04-14,Line 2,Telangana Agro Mill,Garam Masala,1876.15,kg,9.984,69.04,1342.6,47.98,Grade A,1632.97,PASS
+13858,BCH-6845,2022-01-20,Line 1,Deccan Organic Spices,Turmeric Powder,623.46,kg,8.589,87.98,1190.4,30.15,Grade A,513.33,PASS
+277473,BCH-0957,2023-01-14,Line 1,Nizamabad Turmeric Hub,Garam Masala,997.17,kg,5.444,66.31,969.8,14.41,Grade B,860.02,FAIL
+249100,BCH-0182,2022-12-08,Line 3,Guntur Spices Company,Coriander Powder,425.25,kg,12.075,76.75,1556.7,10.0,Grade C,393.51,FAIL
+27997,BCH-3672,2023-12-05,Line 3,Guntur Spices Co,Chilli Powder,1352255.97,grams,9.313,81.58,1306.8,49.34,Grade A,1146671.87,PASS
+148976,BCH-2909,2023-11-25,Line 3,Hyderabad Spice Trader,Garam Masala,763.45,kg,7.908,71.3,1190.8,24.65,Grade B,713.71,PASS
+158465,BCH-2966,2023-05-13,Line 1,Guntur Spices Co,Garam Masala,1300.92,kg,7.965,79.69,1369.2,35.58,Grade D,1166.13,PASS
+96617,BCH-8397,2023-10-20,Line 3,Guntur Spices Company,Garam Masala,1442.71,kg,6.269,78.31,1306.3,21.1,Grade B,1183.1,PASS
+4595,BCH-7773,2022-02-19,Line 2,Guntur Spices Company,Garam Masala,1433.74,kg,11.644,76.09,1321.7,25.54,Grade A,1373.08,PASS
+7872,BCH-5540,2022-11-16,Line 1,Nizamabad Turmeric,Coriander Powder,415.69,kg,10.408,78.98,1094.8,18.08,Grade B,366.42,FAIL
+231313,BCH-0031,2024-04-14,Line 1,Deccan Organic Spices,Chilli Powder,608373.9,grams,4.536,66.01,1369.0,22.17,Grade A,505839.06,PASS
+194160,BCH-9160,2023-07-24,Line 2,Guntur Spice Co.,Garam Masala,869.01,kg,10.371,69.87,1042.8,35.71,Grade B,784.37,FAIL
+167193,BCH-9675,2022-06-12,Line 1,Deccan Spice Organics,Garam Masala,1007.69,kg,9.172,78.89,900.0,35.91,Grade C,848.13,FAIL
+199039,BCH-2965,2024-09-10,Line 2,Nizam Turmeric Hub,Coriander Powder,1871.75,kg,8.031,62.49,928.9,30.09,Grade A,1669.32,FAIL
+213526,BCH-9241,2024-05-25,Line 2,Nizam Turmeric Hub,Coriander Powder,340305.46,grams,4.813,73.27,1158.7,43.04,Grade B,284232.49,PASS
+273228,BCH-6338,2022-05-25,Line 1,Tel Agro Mills,Coriander Powder,1202.25,kg,6.378,77.75,1555.1,47.59,Grade A,1042.21,FAIL
+88969,BCH-5127,2023-09-08,Line 2,Nizam Turmeric Hub,Chilli Powder,1358.87,kg,5.369,72.23,1271.1,37.98,Grade D,1181.29,PASS
+201845,BCH-0764,2023-10-13,Line 1,Telangana Agro Mill,Garam Masala,1459.27,kg,5.607,82.25,1129.4,13.19,Grade A,1218.15,PASS
+84088,BCH-1180,2024-06-22,Line 1,hyd spice traders,Turmeric Powder,1836.62,kg,8.438,81.17,1199.5,36.26,Grade A,1586.06,PASS
+220633,BCH-9278,2023-03-11,Line 1,Deccan Spices Organics,Chilli Powder,1613.62,kg,11.425,85.83,1255.1,33.29,Grade C,1311.46,FAIL
+25468,BCH-3737,2024-10-03,Line 3,Malabar Garam Masala Guild,Garam Masala,904339.9,grams,9.92,77.07,1312.2,56.91,Grade A,827621.64,FAIL
+111406,BCH-9718,2024-11-12,Line 3,Nizamabad Turmeric,Coriander Powder,772.96,kg,10.063,81.82,1197.8,22.75,Grade B,698.55,PASS
+271827,BCH-5051,2023-11-07,Line 3,Deccan Spices Organics,Turmeric Powder,1898.87,kg,8.84,62.88,1206.9,20.9,Grade A,1744.09,PASS
+196189,BCH-8980,2023-08-13,Line 3,Hyderabad Spice Traders,Chilli Powder,495.37,kg,7.124,83.89,1466.5,48.38,Grade C,454.92,PASS
+60911,BCH-0017,2024-01-09,Line 3,Malabar GM Guild,Garam Masala,323546.9,grams,8.971,87.14,1343.2,31.63,Grade A,271928.07,PASS
+143059,BCH-0742,2023-02-06,Line 1,HYD Spice Traders,Turmeric Powder,774.24,kg,9.355,78.2,1074.5,27.12,Grade B,737.32,PASS
+61118,BCH-3016,2024-02-04,Line 1,Deccan Spice Organics,Chilli Powder,461859.94,grams,7.816,91.97,1359.2,26.08,Grade A,410789.28,PASS
+269002,BCH-1895,2024-08-26,Line 3,Malabar Garam Masala Guild,Chilli Powder,1284935.21,grams,6.074,62.6,1245.7,12.0,Grade B,1186085.04,PASS
+288755,BCH-4630,2022-11-26,Line 3,Telangana Agro Mill,Garam Masala,268.47,kg,7.74,84.97,1212.4,24.25,Grade C,234.17,PASS
+203440,BCH-2290,2023-12-16,Line 3,Deccan Spices Organics,Coriander Powder,221042.83,grams,9.209,65.26,1274.9,47.33,Grade B,193431.92,FAIL
+97366,BCH-2990,2022-01-04,Line 2,Hyderabad Spice Trader,Chilli Powder,1870124.99,grams,6.874,75.08,1276.7,38.5,Grade A,1503402.23,PASS
+235557,BCH-5339,2024-03-25,Line 1,Malabar Masala Guild,Garam Masala,399661.02,grams,11.581,68.82,1176.1,53.69,Grade B,338896.1,PASS
+132630,BCH-1439,2024-01-22,Line 1,Nizam Turmeric Hub,Chilli Powder,1315.98,kg,12.289,77.76,1025.9,34.9,Grade B,1117.03,FAIL
+263797,BCH-2448,2023-01-06,Line 2,Tel Agro Mills,Coriander Powder,988.95,kg,13.762,72.83,1435.7,33.45,Grade B,930.94,FAIL
+67475,BCH-5050,2022-10-06,Line 3,Deccan Spices Organics,Chilli Powder,1232.39,kg,10.972,75.52,1197.7,45.96,Grade C,1130.67,FAIL
+54541,BCH-9756,2022-08-03,Line 1,Tel Agro Mills,Turmeric Powder,1375.92,kg,8.215,54.51,1190.8,19.81,Grade C,1178.34,FAIL
+43192,BCH-3663,2022-11-15,Line 2,Guntur Spices Company,Chilli Powder,468.61,kg,5.302,77.47,1312.9,22.7,Grade B,425.11,PASS
+179307,BCH-3750,2024-05-02,Line 3,Guntur Spice Co.,Chilli Powder,1639708.16,grams,6.702,91.03,1214.1,47.24,Grade B,1482669.87,FAIL
+21760,BCH-5876,2023-02-07,Line 3,HYD Spice Traders,Chilli Powder,1596.84,kg,2.231,79.84,1202.6,24.74,Grade C,1374.04,FAIL
+119434,BCH-7447,2023-01-24,Line 1,Tel Agro Mills,Garam Masala,220.94,kg,8.12,84.86,1206.8,22.95,Grade C,202.5,PASS
+33241,BCH-1815,2022-09-16,Line 3,Deccan Spices Organics,Turmeric Powder,1397.46,kg,10.607,78.93,1168.9,33.82,Grade B,1280.08,PASS
+13130,BCH-1523,2022-10-12,Line 3,Guntur Spice Co.,Coriander Powder,1503877.63,grams,10.943,77.79,1280.4,38.04,Grade D,1338451.76,FAIL
+281227,BCH-0702,2024-11-04,Line 1,Deccan Spices Organics,Turmeric Powder,452.21,kg,4.468,71.74,1480.2,35.41,Grade A,365.16,PASS
+208396,BCH-0366,2024-04-20,Line 2,Malabar Masala Guild,Turmeric Powder,1827013.61,grams,8.663,68.76,1355.9,13.98,Grade B,1601991.4,FAIL
+117603,BCH-0849,2023-03-18,Line 1,Telangana Agro Mill,Turmeric Powder,1725.38,kg,8.376,68.26,1452.5,44.75,Grade B,1486.9,PASS
+276124,BCH-8916,2023-09-14,Line 2,Nizamabad Turmeric Hub,Chilli Powder,1552882.88,grams,8.801,64.2,1156.9,52.7,Grade A,1464705.07,FAIL
+128137,BCH-1970,2022-07-24,Line 2,Guntur Spice Co.,Turmeric Powder,1910144.98,grams,6.591,81.22,1179.1,41.71,Grade B,1549632.51,PASS
+209555,BCH-3810,2022-06-08,Line 1,Telangana Agro Mills,Chilli Powder,378.39,kg,10.068,79.74,1255.9,27.99,Grade A,310.07,PASS
+113832,BCH-8435,2023-11-29,Line 2,Guntur Spices Company,Coriander Powder,294.21,kg,9.291,69.5,1561.0,10.0,Grade A,270.36,PASS
+284202,BCH-6072,2022-04-08,Line 2,Guntur Spice Co.,Turmeric Powder,948.32,kg,6.412,83.95,1285.5,31.36,Grade A,824.3,PASS
+89384,BCH-5985,2024-06-24,Line 1,Deccan Spices Organics,Coriander Powder,481.03,kg,4.257,70.42,1373.6,38.23,Grade B,451.39,PASS
+287524,BCH-5308,2024-02-24,Line 3,Hyderabad Spice Trader,Turmeric Powder,250042.12,grams,10.547,77.97,1361.4,43.92,Grade C,232730.0,FAIL
+232758,BCH-7341,2022-12-04,Line 2,Guntur Spice Co.,Chilli Powder,711747.45,grams,3.402,67.13,1284.4,32.57,Grade B,657932.88,PASS
+199669,BCH-7115,2024-07-22,Line 1,Deccan Spices Organics,Garam Masala,440764.64,grams,8.9,63.01,1505.0,34.09,Grade A,404008.39,FAIL
+229654,BCH-6594,2023-05-29,Line 1,Nizam Turmeric Hub,Chilli Powder,1097.24,kg,9.54,93.0,1313.8,43.05,Grade A,997.55,PASS
+268645,BCH-1017,2023-06-29,Line 1,Deccan Spices Organics,Garam Masala,1045.47,kg,8.813,62.88,1320.5,35.62,Grade A,977.72,FAIL
+13915,BCH-9160,2023-08-01,Line 1,Hyderabad Spice Traders,Turmeric Powder,1431.38,kg,4.429,80.31,1126.1,42.67,Grade C,1225.9,PASS
+74039,BCH-2386,2022-04-13,Line 2,HYD Spice Traders,Turmeric Powder,1238.32,kg,7.982,76.83,1479.5,27.08,Grade D,1103.67,FAIL
+246008,BCH-5063,2022-03-20,Line 3,Nizamabad Turmeric Hub,Turmeric Powder,1202870.85,grams,6.011,91.23,1216.4,48.77,Grade B,1011187.28,PASS
+260890,BCH-4445,2022-08-14,Line 2,Guntur Spice Co.,Chilli Powder,1702.99,kg,2.194,91.66,1406.8,35.43,Grade B,1581.47,PASS
+77729,BCH-5450,2023-08-22,Line 2,Guntur Spices Company,Chilli Powder,1378.22,kg,10.645,58.07,1098.5,35.74,Grade A,1142.33,PASS
+262071,BCH-6684,2023-01-16,Line 3,Nizam Turmeric Hub,Turmeric Powder,1716704.11,grams,10.496,98.88,1130.7,42.08,Grade A,1441985.76,PASS
+215361,BCH-0849,2022-06-30,Line 1,Telangana Agro Mill,Garam Masala,1042.9,kg,7.525,67.7,1125.4,41.78,Grade A,861.48,PASS
+277755,BCH-9945,2024-09-24,Line 3,Deccan Spices Organics,Turmeric Powder,1148.93,kg,7.886,73.76,1204.9,25.79,Grade B,1010.64,FAIL
+249865,BCH-5306,2022-06-24,Line 3,hyd spice traders,Garam Masala,1451.63,kg,10.606,52.52,1203.7,30.07,Grade C,1296.08,FAIL
+43626,BCH-9163,2022-10-05,Line 3,Guntur Spices Co,Garam Masala,1639428.29,grams,6.463,73.77,1099.3,53.73,Grade D,1461487.73,FAIL
+229266,BCH-3019,2024-04-16,Line 3,Nizamabad Turmeric Hub,Turmeric Powder,1079.5,kg,2.753,65.87,1336.0,31.04,Grade A,926.57,FAIL
+217323,BCH-7303,2022-05-02,Line 3,Telangana Agro Mills,Chilli Powder,1419.04,kg,7.365,69.77,1368.3,37.35,Grade C,1249.68,PASS
+139139,BCH-1355,2024-08-17,Line 2,Deccan Spices Organics,Garam Masala,1067.58,kg,10.636,73.03,1227.0,53.86,Grade C,906.05,PASS
+169108,BCH-3424,2022-05-21,Line 3,Telangana Agro Mill,Coriander Powder,1953.29,kg,8.154,80.44,947.0,34.74,Grade A,1604.25,FAIL
+276984,BCH-3172,2022-10-06,Line 3,Nizam Turmeric Hub,Garam Masala,1210.78,kg,8.23,71.05,1310.7,31.79,Grade B,1090.87,FAIL
+299266,BCH-9615,2024-03-07,Line 3,Malabar GM Guild,Coriander Powder,1527888.4,grams,13.158,77.69,1370.7,47.45,Grade A,1285992.24,FAIL
+261728,BCH-9137,2022-05-16,Line 2,Guntur Spices Company,Garam Masala,1570.2,kg,8.121,73.91,1242.5,30.07,Grade C,1486.06,PASS
+150168,BCH-0531,2022-08-24,Line 1,Telangana Agro Mill,Chilli Powder,724726.62,grams,9.875,82.23,1222.3,32.19,Grade B,675693.49,PASS
+231296,BCH-7099,2022-06-30,Line 3,Guntur Spices Co,Garam Masala,303.69,kg,8.743,73.25,977.2,35.43,Grade C,249.14,FAIL
+141368,BCH-2459,2023-05-16,Line 2,Hyderabad Spice Trader,Chilli Powder,1574.85,kg,8.64,81.92,1376.8,30.44,Grade A,1353.94,FAIL
+107581,BCH-6528,2023-07-20,Line 1,Guntur Spices Co,Coriander Powder,1067.2,kg,4.548,81.02,1336.6,51.69,Grade B,843.35,FAIL
+95064,BCH-1193,2022-02-25,Line 2,hyd spice traders,Chilli Powder,1986.49,kg,11.369,68.0,1300.4,44.98,Grade D,1836.06,PASS
+237203,BCH-4941,2023-03-22,Line 2,Telangana Agro Mill,Garam Masala,952.29,kg,8.834,61.4,1386.4,30.87,Grade B,831.74,PASS
+272025,BCH-4794,2023-06-30,Line 2,Guntur Spices Co,Turmeric Powder,1156246.23,grams,9.128,83.02,1144.5,42.4,Grade B,1075031.02,PASS
+10061,BCH-6691,2024-09-20,Line 1,Malabar Garam Masala Guild,Coriander Powder,1315.0,kg,13.165,59.71,1141.7,27.71,Grade A,1207.31,FAIL
+211719,BCH-5901,2022-12-24,Line 3,Tel Agro Mills,Chilli Powder,1760.27,kg,12.848,65.51,1295.8,37.81,Grade A,1483.88,FAIL
+165413,BCH-9532,2024-02-19,Line 2,Hyderabad Spice Traders,Chilli Powder,769.97,kg,6.179,74.07,1136.0,38.01,Grade B,637.39,PASS
+176690,BCH-3584,2024-02-29,Line 3,Malabar Garam Masala Guild,Turmeric Powder,1654843.95,grams,7.539,80.05,1355.2,46.69,Grade C,1373887.83,PASS
+87897,BCH-0520,2022-02-07,Line 1,Malabar GM Guild,Chilli Powder,1808523.47,grams,5.831,78.7,1323.2,25.16,Grade B,1570685.05,PASS
+24008,BCH-4389,2024-07-22,Line 2,hyd spice traders,Coriander Powder,737.86,kg,9.988,84.8,1181.7,27.35,Grade B,687.03,FAIL
+257373,BCH-4698,2023-09-15,Line 3,Telangana Agro Mills,Garam Masala,201.92,kg,10.547,80.77,1363.0,26.73,Grade A,184.05,FAIL
+117338,BCH-1732,2022-10-11,Line 2,Deccan Spices Organics,Coriander Powder,441.37,kg,4.062,65.86,1467.3,45.7,Grade A,408.86,PASS
+86535,BCH-8390,2023-02-09,Line 1,Guntur Spices Company,Coriander Powder,1514.43,kg,5.116,77.74,1253.5,22.51,Grade C,1310.72,PASS
+274663,BCH-0370,2023-07-13,Line 2,Hyderabad Spice Traders,Turmeric Powder,1265.26,kg,10.437,81.22,1120.1,22.46,Grade C,1170.43,FAIL
+272390,BCH-3915,2024-05-23,Line 2,Hyderabad Spice Trader,Coriander Powder,1851.81,kg,15.358,73.5,1445.5,49.1,Grade A,1739.23,FAIL
+231347,BCH-8469,2023-10-20,Line 1,hyd spice traders,Coriander Powder,1575.19,kg,9.066,68.51,1409.7,22.75,Grade C,1456.04,PASS
+144882,BCH-8450,2022-07-25,Line 1,Guntur Spices Co,Coriander Powder,1481.28,kg,4.635,59.8,1391.1,17.21,Grade A,1381.31,PASS
+126274,BCH-0324,2023-04-20,Line 1,Hyderabad Spice Traders,Garam Masala,1314936.33,grams,8.214,76.48,1404.4,46.4,Grade A,1141003.25,PASS
+247410,BCH-7519,2022-08-12,Line 1,Nizamabad Turmeric,Garam Masala,1679413.12,grams,8.495,79.21,1524.8,24.41,Grade A,1418729.38,FAIL
+264546,BCH-4600,2022-07-07,Line 3,Nizamabad Turmeric,Garam Masala,1844799.76,grams,3.703,80.08,1191.0,10.0,Grade A,1492621.74,PASS
+238811,BCH-1916,2022-07-29,Line 1,Guntur Spices Co,Turmeric Powder,629.6,kg,5.665,76.5,1219.3,37.13,Grade A,516.15,FAIL
+211253,BCH-3334,2022-01-11,Line 1,Hyderabad Spice Trader,Turmeric Powder,1733.41,kg,5.334,71.18,1377.4,28.72,Grade B,1637.12,FAIL
+93038,BCH-5907,2023-10-02,Line 1,Telangana Agro Mill,Turmeric Powder,351.66,kg,2.143,73.66,1391.7,37.83,Grade B,305.91,FAIL
+168523,BCH-7305,2023-01-20,Line 3,Guntur Spices Co,Chilli Powder,1392.36,kg,7.514,63.1,1247.0,45.24,Grade B,1170.09,PASS
+53263,BCH-3970,2024-12-10,Line 3,Deccan Spice Organics,Garam Masala,1585.35,kg,4.715,76.55,1106.4,35.27,Grade B,1236.57,PASS
+54614,BCH-9477,2023-06-08,Line 3,Telangana Agro Mill,Coriander Powder,1641.2,kg,5.62,80.94,1071.7,29.8,Grade B,1319.57,PASS
+34024,BCH-0901,2022-12-29,Line 1,Nizam Turmeric Hub,Coriander Powder,563.36,kg,5.941,73.17,1508.5,39.77,Grade D,487.17,FAIL
+225171,BCH-8566,2024-01-27,Line 3,Deccan Spices Organics,Coriander Powder,1689.59,kg,13.928,72.14,1241.3,27.17,Grade A,1419.08,FAIL
+93375,BCH-4452,2022-01-25,Line 3,Nizam Turmeric Hub,Turmeric Powder,1974.11,kg,8.84,71.42,1280.1,36.02,Grade C,1615.59,PASS
+260711,BCH-3933,2022-03-13,Line 3,Guntur Spices Co,Coriander Powder,825.09,kg,5.164,85.35,1288.5,30.0,Grade A,782.75,FAIL
+162335,BCH-1121,2024-02-03,Line 2,Telangana Agro Mill,Chilli Powder,895830.94,grams,14.0,75.49,1351.5,36.6,Grade A,834030.34,FAIL
+16749,BCH-9360,2022-06-23,Line 1,Malabar Masala Guild,Turmeric Powder,1501.09,kg,9.664,75.73,1130.8,38.07,Grade A,1311.01,PASS
+209225,BCH-5308,2024-10-19,Line 3,HYD Spice Traders,Garam Masala,866552.17,grams,4.36,69.83,1401.9,47.07,Grade A,743309.68,PASS
+129688,BCH-0347,2023-08-08,Line 2,Deccan Spice Organics,Coriander Powder,383050.66,grams,10.919,64.6,1169.3,25.16,Grade A,318276.36,PASS
+56980,BCH-1130,2022-03-15,Line 2,Guntur Spices Co,Chilli Powder,463.14,kg,8.441,69.45,1388.6,41.69,Grade A,423.42,PASS
+248676,BCH-0782,2024-05-20,Line 2,Malabar Garam Masala Guild,Garam Masala,492.29,kg,6.905,53.53,1498.5,48.86,Grade B,425.3,FAIL
+175548,BCH-7423,2022-09-02,Line 1,Malabar Masala Guild,Garam Masala,1418.7,kg,8.256,73.59,1429.7,58.21,Grade A,1240.78,PASS
+44593,BCH-0375,2024-06-13,Line 2,Nizamabad Turmeric Hub,Coriander Powder,1818.96,kg,8.279,70.1,1063.9,50.2,Grade C,1627.43,FAIL
+77573,BCH-2533,2023-04-08,Line 3,Deccan Organic Spices,Chilli Powder,1017014.58,grams,10.446,73.52,1548.0,34.51,Grade A,938247.62,FAIL
+264391,BCH-3579,2022-03-07,Line 3,Telangana Agro Mill,Chilli Powder,488.25,kg,10.524,81.12,1466.3,40.04,Grade A,431.38,PASS
+71051,BCH-4339,2022-12-21,Line 1,Deccan Organic Spices,Turmeric Powder,1774.28,kg,6.72,64.36,1189.5,29.69,Grade D,1503.63,FAIL
+126556,BCH-3064,2023-02-11,Line 2,Deccan Organic Spices,Coriander Powder,804.97,kg,2.795,77.67,1331.6,27.05,Grade A,748.01,PASS
+258590,BCH-8298,2022-08-28,Line 2,Nizamabad Turmeric Hub,Coriander Powder,1400001.57,grams,2.78,81.8,1556.5,41.8,Grade A,1302794.23,FAIL
+153611,BCH-1931,2024-10-07,Line 3,Malabar Garam Masala Guild,Turmeric Powder,1282.6,kg,8.402,63.87,1322.1,10.9,Grade A,1130.18,PASS
+79750,BCH-0450,2024-07-08,Line 3,Malabar Masala Guild,Garam Masala,1287.24,kg,6.851,67.24,1464.3,47.94,Grade A,1134.68,PASS
+27685,BCH-0017,2023-10-17,Line 2,Malabar GM Guild,Garam Masala,377.75,kg,8.274,75.49,1340.3,44.65,Grade B,324.46,PASS
+257944,BCH-9961,2023-07-12,Line 3,Nizamabad Turmeric,Turmeric Powder,1026.29,kg,6.382,72.8,1371.4,36.39,Grade A,842.71,PASS
+253681,BCH-4941,2023-12-05,Line 1,Deccan Organic Spices,Coriander Powder,887587.44,grams,7.646,76.83,1254.1,26.55,Grade B,822824.34,PASS
+89277,BCH-9209,2023-05-26,Line 2,Nizamabad Turmeric,Garam Masala,224.2,kg,5.848,79.49,1094.2,17.69,Grade A,197.78,PASS
+228521,BCH-4088,2022-03-21,Line 1,Guntur Spice Co.,Coriander Powder,1368.92,kg,9.719,76.63,1386.8,44.14,Grade A,1234.76,PASS
+39790,BCH-8310,2022-10-02,Line 2,Malabar Masala Guild,Turmeric Powder,1965244.21,grams,5.795,71.48,1411.7,43.6,Grade C,1620595.82,FAIL
+89433,BCH-4628,2024-10-31,Line 1,Guntur Spices Company,Turmeric Powder,284.07,kg,11.699,81.45,1221.0,35.43,Grade D,238.55,FAIL
+200107,BCH-9615,2023-08-29,Line 1,Nizamabad Turmeric,Coriander Powder,1367.03,kg,3.942,82.81,1541.7,34.14,Grade D,1280.76,FAIL
+71484,BCH-6820,2022-12-30,Line 1,Nizamabad Turmeric,Turmeric Powder,1471.83,kg,10.964,83.04,1094.2,39.3,Grade A,1284.54,PASS
+235062,BCH-9703,2024-07-06,Line 1,Guntur Spices Co,Chilli Powder,475.27,kg,8.364,70.77,1131.6,36.95,Grade B,387.56,FAIL
+70838,BCH-5146,2024-05-15,Line 1,Hyderabad Spice Traders,Coriander Powder,1675.11,kg,7.548,56.29,900.0,35.68,Grade D,1518.13,FAIL
+37759,BCH-2281,2024-08-04,Line 1,Nizamabad Turmeric,Garam Masala,1153.9,kg,6.341,63.77,1208.8,67.63,Grade A,1033.93,FAIL
+191990,BCH-7533,2024-11-08,Line 2,Hyderabad Spice Traders,Turmeric Powder,318.63,kg,5.125,70.32,1206.2,25.55,Grade A,265.61,PASS
+225973,BCH-4091,2022-11-17,Line 3,Guntur Spices Company,Turmeric Powder,707.8,kg,7.53,67.33,1289.8,37.47,Grade C,580.87,PASS
+82079,BCH-8327,2024-03-26,Line 3,Guntur Spices Company,Turmeric Powder,675.82,kg,7.978,73.49,1092.0,34.41,Grade A,583.23,FAIL
+277106,BCH-8133,2022-02-01,Line 3,Guntur Spice Co.,Chilli Powder,1966497.02,grams,9.42,66.94,1516.6,50.7,Grade A,1593424.97,PASS
+66726,BCH-1498,2024-01-05,Line 3,Guntur Spices Co,Chilli Powder,966232.68,grams,10.466,75.04,1376.8,35.96,Grade D,890488.31,FAIL
+80142,BCH-2070,2022-07-22,Line 3,Nizamabad Turmeric Hub,Chilli Powder,1462.52,kg,11.648,60.39,1342.7,40.01,Grade B,1221.35,PASS
+25305,BCH-5994,2023-10-31,Line 3,Deccan Spices Organics,Garam Masala,1674.36,kg,11.119,64.1,1328.9,27.15,Grade A,1527.17,FAIL
+222671,BCH-8816,2024-01-06,Line 3,Deccan Spice Organics,Turmeric Powder,802.51,kg,13.85,83.93,1333.1,31.02,Grade C,703.41,FAIL
+229887,BCH-9274,2022-02-17,Line 1,Guntur Spice Co.,Turmeric Powder,1570.89,kg,7.449,82.15,1065.0,42.86,Grade D,1359.58,PASS
+80623,BCH-3103,2022-09-04,Line 2,Telangana Agro Mills,Chilli Powder,286.32,kg,9.124,80.04,1321.4,33.32,Grade D,229.82,FAIL
+45786,BCH-0842,2022-01-27,Line 3,Malabar GM Guild,Garam Masala,555.17,kg,11.697,75.44,1197.1,58.26,Grade C,518.11,PASS
+106462,BCH-4955,2024-05-29,Line 3,Telangana Agro Mills,Garam Masala,1641.61,kg,7.719,79.83,1280.5,26.88,Grade B,1390.38,PASS
+99099,BCH-2723,2022-08-26,Line 3,Deccan Organic Spices,Chilli Powder,1763161.04,grams,5.789,67.21,1244.9,36.75,Grade A,1502415.08,FAIL
+295432,BCH-0554,2022-03-21,Line 2,Guntur Spices Co,Turmeric Powder,359.67,kg,11.251,69.03,1139.9,25.17,Grade C,307.83,PASS
+252619,BCH-4343,2022-01-12,Line 1,Nizam Turmeric Hub,Coriander Powder,1112.76,kg,10.511,70.52,1311.9,24.07,Grade A,1037.25,PASS
+268381,BCH-5073,2023-04-03,Line 1,Deccan Spices Organics,Turmeric Powder,1169.54,kg,9.931,77.0,1321.7,56.33,Grade B,1041.47,PASS
+165632,BCH-0957,2024-06-01,Line 2,Telangana Agro Mill,Turmeric Powder,1377.38,kg,8.424,83.04,1322.8,26.52,Grade C,1152.44,PASS
+168757,BCH-1815,2024-12-04,Line 2,Tel Agro Mills,Coriander Powder,828.54,kg,9.399,78.16,1179.7,43.94,Grade B,739.04,FAIL
+8720,BCH-1824,2024-02-17,Line 1,Telangana Agro Mill,Garam Masala,1368.04,kg,8.075,88.01,1108.8,24.26,Grade C,1199.78,FAIL
+286295,BCH-5890,2023-08-05,Line 1,Telangana Agro Mills,Turmeric Powder,574.37,kg,6.623,68.42,1108.9,34.94,Grade D,516.25,PASS
+154552,BCH-0571,2024-12-26,Line 3,Nizam Turmeric Hub,Chilli Powder,1207970.26,grams,7.525,70.87,1498.4,48.29,Grade C,1039132.13,FAIL
+217643,BCH-3225,2023-08-26,Line 3,Guntur Spice Co.,Chilli Powder,711.19,kg,8.467,69.88,1133.6,36.0,Grade C,599.93,FAIL
+257251,BCH-7519,2022-02-03,Line 1,Telangana Agro Mills,Coriander Powder,930.52,kg,8.549,80.13,1012.6,51.06,Grade B,806.71,FAIL
+283109,BCH-4470,2022-08-30,Line 2,Guntur Spices Company,Chilli Powder,276.82,kg,13.656,66.55,1229.2,27.78,Grade A,245.32,PASS
+48669,BCH-7429,2024-05-05,Line 3,Malabar Masala Guild,Garam Masala,938.5,kg,9.794,74.46,1203.3,20.65,Grade B,837.28,PASS
+258381,BCH-3849,2022-02-22,Line 1,HYD Spice Traders,Turmeric Powder,1544811.39,grams,6.644,75.56,1115.9,30.57,Grade A,1282024.43,PASS
+66650,BCH-6364,2022-03-29,Line 1,Deccan Spices Organics,Garam Masala,737.61,kg,7.147,74.03,1231.3,42.41,Grade B,671.99,PASS
+129895,BCH-4412,2023-05-27,Line 3,HYD Spice Traders,Chilli Powder,902.51,kg,11.939,88.7,1327.7,44.23,Grade B,767.67,FAIL
+191889,BCH-6177,2022-01-30,Line 1,Telangana Agro Mills,Turmeric Powder,1073.4,kg,6.876,71.29,1500.3,35.57,Grade B,941.64,FAIL
+122110,BCH-8254,2022-12-11,Line 3,Hyderabad Spice Trader,Garam Masala,790.82,kg,4.441,61.66,1326.0,26.15,Grade B,702.34,FAIL
+282529,BCH-4667,2023-03-22,Line 2,Nizamabad Turmeric,Garam Masala,1932.18,kg,8.628,64.27,1151.3,40.89,Grade A,1761.9,FAIL
+68895,BCH-1193,2022-02-14,Line 3,Hyderabad Spice Trader,Chilli Powder,1247.74,kg,4.922,88.44,1389.9,36.83,Grade A,1012.36,FAIL
+59422,BCH-6735,2022-11-19,Line 3,Nizam Turmeric Hub,Coriander Powder,1522.4,kg,13.35,72.11,1090.0,38.77,Grade D,1443.5,FAIL
+219399,BCH-5395,2024-10-02,Line 2,Guntur Spice Co.,Coriander Powder,1928.52,kg,4.741,72.07,1083.1,30.01,Grade B,1557.17,PASS
+282886,BCH-5544,2024-07-28,Line 3,Telangana Agro Mills,Garam Masala,407.55,kg,8.994,75.65,1238.9,36.16,Grade A,373.06,PASS
+195734,BCH-6425,2024-08-25,Line 2,Malabar Masala Guild,Garam Masala,1998.55,kg,6.039,79.73,1529.6,31.53,Grade A,1672.03,PASS
+13240,BCH-7839,2024-04-29,Line 3,Nizam Turmeric Hub,Turmeric Powder,985.15,kg,9.723,76.03,1121.5,36.53,Grade B,795.13,PASS
+37839,BCH-8408,2022-09-30,Line 3,Hyderabad Spice Traders,Coriander Powder,1833.27,kg,9.26,79.84,1229.1,39.28,Grade C,1685.0,FAIL
+108349,BCH-1228,2022-08-27,Line 1,Hyderabad Spice Traders,Coriander Powder,1842.08,kg,3.029,78.18,1244.6,43.75,Grade A,1686.08,PASS
+219204,BCH-1403,2023-06-29,Line 1,Hyderabad Spice Trader,Turmeric Powder,1395.91,kg,12.437,60.6,1155.3,42.64,Grade B,1249.38,FAIL
+153203,BCH-7500,2022-05-09,Line 3,Guntur Spices Co,Garam Masala,1789.65,kg,7.241,80.31,1241.3,34.33,Grade C,1574.2,PASS
+295196,BCH-1452,2022-06-28,Line 3,Guntur Spices Co,Turmeric Powder,822486.22,grams,2.994,68.61,1301.3,15.88,Grade A,716087.88,PASS
+227468,BCH-0309,2023-05-22,Line 3,Telangana Agro Mill,Turmeric Powder,324292.22,grams,5.599,84.06,1406.6,33.33,Grade A,275471.94,PASS
+93755,BCH-9152,2024-08-22,Line 1,Telangana Agro Mill,Garam Masala,537.4,kg,12.735,69.93,1575.9,47.45,Grade B,470.82,FAIL
+159361,BCH-9947,2022-01-15,Line 3,Malabar Masala Guild,Turmeric Powder,1584166.1,grams,9.768,72.68,1278.9,41.18,Grade B,1280792.43,PASS
+294520,BCH-0196,2022-04-29,Line 3,Nizam Turmeric Hub,Garam Masala,1040.7,kg,13.701,74.1,1483.2,54.14,Grade C,854.97,FAIL
+148742,BCH-9330,2023-05-10,Line 1,Nizamabad Turmeric Hub,Chilli Powder,1460.22,kg,7.465,76.47,1148.8,36.64,Grade A,1340.62,FAIL
+236280,BCH-4969,2023-12-31,Line 3,Guntur Spices Company,Garam Masala,1432.4,kg,10.618,79.62,1262.2,39.81,Grade B,1159.25,FAIL
+34571,BCH-1207,2023-06-06,Line 2,Telangana Agro Mill,Chilli Powder,1594.46,kg,10.837,82.63,1357.2,41.35,Grade A,1438.57,PASS
+199605,BCH-3801,2023-01-27,Line 3,Hyderabad Spice Trader,Garam Masala,213.28,kg,11.447,72.29,994.6,44.27,Grade A,193.45,FAIL
+77714,BCH-7662,2024-08-09,Line 3,Malabar Garam Masala Guild,Chilli Powder,1016.55,kg,8.655,80.13,1041.4,29.47,Grade B,914.2,FAIL
+255789,BCH-4109,2022-10-25,Line 2,HYD Spice Traders,Turmeric Powder,1753.77,kg,9.718,71.71,900.0,34.01,Grade A,1639.57,FAIL
+207891,BCH-9626,2024-07-31,Line 2,Telangana Agro Mills,Turmeric Powder,1293.81,kg,6.941,65.52,1308.5,17.88,Grade B,1082.69,PASS
+110189,BCH-4497,2023-09-05,Line 3,hyd spice traders,Coriander Powder,921.47,kg,8.289,71.5,1118.0,34.62,Grade C,789.78,FAIL
+243523,BCH-5051,2022-07-22,Line 3,Hyderabad Spice Trader,Turmeric Powder,334.19,kg,14.229,91.09,1023.7,27.96,Grade A,279.89,FAIL
+35640,BCH-3172,2024-01-23,Line 1,Tel Agro Mills,Coriander Powder,1013399.41,grams,4.006,66.07,1385.5,30.81,Grade A,855953.87,PASS
+32106,BCH-4551,2022-10-28,Line 2,Guntur Spices Co,Turmeric Powder,869.6,kg,9.734,71.05,1128.4,37.53,Grade B,801.61,PASS
+94340,BCH-0973,2024-10-06,Line 3,Nizam Turmeric Hub,Garam Masala,1950763.43,grams,9.355,67.8,989.7,27.08,Grade B,1668465.92,PASS
+43782,BCH-7796,2024-12-19,Line 2,Malabar GM Guild,Coriander Powder,1327.6,kg,12.532,64.42,1006.2,29.31,Grade B,1246.97,FAIL
+176704,BCH-7390,2022-09-09,Line 2,Deccan Organic Spices,Garam Masala,1503.63,kg,3.396,70.28,1554.9,49.06,Grade B,1331.9,PASS
+95729,BCH-9210,2022-01-11,Line 2,Deccan Organic Spices,Turmeric Powder,878211.44,grams,8.958,71.19,993.1,40.82,Grade C,739916.88,FAIL
+122303,BCH-5743,2023-01-02,Line 2,Telangana Agro Mill,Coriander Powder,1162919.57,grams,8.64,81.69,1330.1,25.15,Grade A,1094914.85,PASS
+17441,BCH-7249,2024-09-19,Line 3,Deccan Spices Organics,Garam Masala,899.6,kg,9.183,81.75,1068.0,49.24,Grade B,799.67,PASS
+299301,BCH-8556,2023-07-21,Line 2,Nizamabad Turmeric Hub,Chilli Powder,703.37,kg,12.516,77.67,1280.9,46.2,Grade A,617.21,FAIL
+244755,BCH-6163,2024-10-01,Line 2,HYD Spice Traders,Chilli Powder,1143.25,kg,10.184,81.5,1272.7,39.4,Grade A,1016.61,PASS
+48048,BCH-1067,2023-08-26,Line 3,Guntur Spice Co.,Turmeric Powder,307.33,kg,4.642,81.4,1002.0,43.53,Grade A,255.42,PASS
+229711,BCH-9415,2022-08-18,Line 1,Malabar Masala Guild,Chilli Powder,444.95,kg,7.151,86.42,1333.9,35.84,Grade B,385.91,PASS
+143769,BCH-4755,2024-12-04,Line 1,Malabar Garam Masala Guild,Coriander Powder,334994.6,grams,6.779,70.37,1445.8,31.48,Grade D,275674.33,FAIL
+24116,BCH-4993,2022-07-02,Line 1,Telangana Agro Mills,Turmeric Powder,951.7,kg,7.585,70.36,1138.2,15.45,Grade A,822.06,FAIL
+157101,BCH-1276,2023-04-22,Line 3,Nizamabad Turmeric,Garam Masala,300747.61,grams,8.947,76.76,1355.6,13.73,Grade B,267937.0,PASS
+280613,BCH-3389,2023-03-18,Line 2,Tel Agro Mills,Chilli Powder,1745.2,kg,8.702,81.85,1346.5,40.41,Grade A,1592.5,PASS
+229197,BCH-2357,2022-03-23,Line 3,Guntur Spice Co.,Turmeric Powder,1212274.83,grams,2.232,56.81,1112.3,36.05,Grade D,1074918.7,FAIL
+287393,BCH-4321,2024-12-28,Line 2,Malabar Garam Masala Guild,Garam Masala,946728.39,grams,9.974,81.88,1316.8,28.24,Grade A,908186.18,PASS
+34146,BCH-6722,2023-12-10,Line 3,Guntur Spices Co,Turmeric Powder,1049854.78,grams,8.77,72.36,1225.2,47.59,Grade A,842923.8,PASS
+264518,BCH-3204,2024-08-10,Line 3,Malabar Masala Guild,Garam Masala,641792.09,grams,12.128,80.3,1365.9,28.47,Grade B,585538.0,FAIL
+111548,BCH-8607,2024-04-10,Line 3,Deccan Spices Organics,Garam Masala,1954.71,kg,9.626,84.86,1120.5,31.68,Grade A,1663.84,PASS
+18443,BCH-1659,2023-07-12,Line 2,Deccan Spice Organics,Coriander Powder,502.5,kg,8.571,70.75,1353.7,15.53,Grade A,405.53,PASS
+265707,BCH-3184,2023-04-20,Line 1,Guntur Spices Company,Turmeric Powder,807.53,kg,10.811,75.05,1466.0,36.51,Grade A,671.93,FAIL
+156353,BCH-8556,2022-10-10,Line 1,Nizamabad Turmeric Hub,Chilli Powder,543.79,kg,11.006,73.66,1086.4,29.54,Grade B,466.9,PASS
+193008,BCH-0844,2023-06-28,Line 1,Malabar Masala Guild,Garam Masala,380620.12,grams,4.453,59.74,1043.2,31.89,Grade A,360468.38,PASS
+143687,BCH-0825,2024-01-09,Line 3,Malabar Masala Guild,Coriander Powder,1684.01,kg,8.624,88.4,1462.7,47.67,Grade B,1387.7,PASS
+92485,BCH-4384,2024-01-29,Line 1,Guntur Spice Co.,Garam Masala,1318.6,kg,12.89,75.19,1421.0,29.76,Grade A,1098.5,FAIL
+158875,BCH-1280,2022-05-06,Line 3,Deccan Organic Spices,Coriander Powder,1130725.17,grams,13.281,73.23,1453.5,46.27,Grade B,1071746.28,FAIL
+202687,BCH-1931,2024-05-26,Line 3,HYD Spice Traders,Chilli Powder,1384.98,kg,9.645,64.52,1233.7,29.59,Grade A,1138.33,FAIL
+188598,BCH-7585,2022-12-30,Line 1,Malabar Masala Guild,Coriander Powder,1944807.36,grams,10.295,68.75,1275.3,24.87,Grade D,1739468.04,PASS
+191023,BCH-6444,2023-12-22,Line 3,Nizamabad Turmeric,Turmeric Powder,653694.52,grams,8.437,82.82,1187.9,27.24,Grade B,576622.86,PASS
+290244,BCH-2543,2024-01-21,Line 1,Malabar Masala Guild,Garam Masala,304.85,kg,5.505,75.05,1300.3,26.76,Grade A,258.37,PASS
+149708,BCH-1807,2023-06-09,Line 3,Guntur Spices Co,Coriander Powder,599.72,kg,7.021,79.28,1362.0,34.5,Grade B,525.16,PASS
+33040,BCH-1795,2023-03-23,Line 2,Telangana Agro Mills,Chilli Powder,1022.71,kg,6.38,71.85,955.6,25.66,Grade B,884.74,PASS
+253540,BCH-9683,2023-11-13,Line 2,Telangana Agro Mills,Coriander Powder,1418.6,kg,5.684,69.17,1145.8,54.98,Grade B,1164.44,PASS
+234528,BCH-8015,2022-03-20,Line 1,Malabar Garam Masala Guild,Chilli Powder,1324.13,kg,9.75,80.46,1075.1,37.73,Grade B,1239.11,PASS
+36574,BCH-8520,2022-01-27,Line 1,Malabar Masala Guild,Turmeric Powder,1927.11,kg,7.984,78.3,1133.0,60.69,Grade C,1790.58,FAIL
+293342,BCH-4628,2024-11-20,Line 3,Guntur Spices Co,Chilli Powder,1006.19,kg,6.106,64.0,1351.6,45.16,Grade D,871.91,FAIL
+127559,BCH-4823,2022-07-03,Line 1,Guntur Spice Co.,Coriander Powder,1918842.85,grams,11.787,66.14,1264.2,35.18,Grade B,1768210.82,PASS
+277671,BCH-3323,2023-04-07,Line 3,Malabar GM Guild,Coriander Powder,255.4,kg,10.547,85.14,1407.5,15.33,Grade C,213.5,FAIL
+85021,BCH-3162,2022-12-16,Line 1,Nizam Turmeric Hub,Garam Masala,1521.07,kg,10.077,63.77,1328.6,41.4,Grade B,1256.18,PASS
+157175,BCH-7277,2022-02-27,Line 3,HYD Spice Traders,Chilli Powder,516011.13,grams,7.126,79.7,1396.1,51.21,Grade A,476382.01,PASS
+211587,BCH-3172,2024-06-12,Line 3,Telangana Agro Mills,Chilli Powder,530036.71,grams,12.072,62.1,1348.4,38.1,Grade B,426564.09,FAIL
+239540,BCH-8675,2022-03-08,Line 3,Nizamabad Turmeric,Turmeric Powder,1084891.31,grams,6.907,77.06,1182.7,26.76,Grade A,1034033.34,PASS
+128185,BCH-2732,2024-08-05,Line 1,Hyderabad Spice Traders,Turmeric Powder,1741.07,kg,5.152,80.0,1589.1,43.43,Grade A,1438.57,PASS
+103738,BCH-9237,2024-08-29,Line 2,Guntur Spices Company,Chilli Powder,1147441.07,grams,7.701,81.41,1328.1,46.0,Grade A,1016428.41,PASS
+270069,BCH-4321,2024-02-12,Line 2,Nizamabad Turmeric,Chilli Powder,1632320.44,grams,8.387,77.03,1344.9,26.82,Grade A,1413181.06,FAIL
+290834,BCH-8550,2024-06-18,Line 1,Guntur Spices Co,Chilli Powder,648123.63,grams,2.611,70.17,1114.4,23.93,Grade B,526826.25,PASS
+274956,BCH-8783,2022-10-08,Line 3,hyd spice traders,Coriander Powder,1354.52,kg,8.333,70.17,1265.0,38.43,Grade C,1169.7,FAIL
+288983,BCH-0045,2024-02-26,Line 3,Deccan Organic Spices,Garam Masala,964.48,kg,7.469,83.64,1274.3,34.31,Grade B,881.63,PASS
+178542,BCH-9314,2022-07-27,Line 3,Nizam Turmeric Hub,Garam Masala,585371.45,grams,7.856,75.23,1304.5,22.75,Grade D,466288.23,PASS
+20653,BCH-7218,2022-11-18,Line 2,HYD Spice Traders,Garam Masala,961.17,kg,9.692,68.34,1367.1,40.65,Grade A,905.29,PASS
+80605,BCH-5354,2023-02-11,Line 1,Deccan Organic Spices,Garam Masala,1885.51,kg,6.611,63.75,1309.2,37.25,Grade A,1758.61,PASS
+214538,BCH-7382,2024-11-07,Line 3,Deccan Spices Organics,Garam Masala,904.92,kg,7.127,75.77,1170.4,13.54,Grade B,781.96,FAIL
+30237,BCH-2557,2023-04-17,Line 1,Nizamabad Turmeric Hub,Turmeric Powder,273.29,kg,13.474,87.07,1187.4,33.33,Grade C,222.8,FAIL
+148752,BCH-8397,2023-04-16,Line 1,Deccan Spices Organics,Turmeric Powder,865.53,kg,4.228,74.43,1247.0,37.92,Grade C,749.67,PASS
+34458,BCH-2537,2024-07-26,Line 1,Telangana Agro Mills,Coriander Powder,1853.52,kg,3.336,68.11,1231.9,23.95,Grade B,1753.5,PASS
+62831,BCH-6219,2024-02-20,Line 1,Nizamabad Turmeric Hub,Chilli Powder,1840214.49,grams,8.622,77.05,1434.7,40.95,Grade B,1700269.32,PASS
+167955,BCH-5871,2022-04-05,Line 2,Malabar Masala Guild,Turmeric Powder,1384.69,kg,10.542,57.64,1182.2,37.71,Grade C,1169.93,FAIL
+39108,BCH-6509,2023-03-14,Line 1,Malabar Masala Guild,Turmeric Powder,1557.91,kg,6.318,76.4,1401.0,40.3,Grade C,1407.35,FAIL
+119008,BCH-2670,2022-11-16,Line 2,Malabar GM Guild,Garam Masala,618.96,kg,10.485,54.9,1344.1,34.17,Grade A,494.69,FAIL
+32787,BCH-5952,2022-04-18,Line 1,Deccan Spice Organics,Garam Masala,1832.95,kg,8.01,69.31,1300.0,45.31,Grade C,1460.13,FAIL
+44703,BCH-3100,2022-10-16,Line 1,Malabar Masala Guild,Garam Masala,995.27,kg,5.588,85.78,1382.1,21.6,Grade B,821.86,FAIL
+138832,BCH-5056,2023-11-27,Line 3,Telangana Agro Mills,Chilli Powder,720.14,kg,6.767,72.51,1205.8,43.29,Grade A,588.66,PASS
+111405,BCH-9055,2024-04-09,Line 1,Guntur Spices Company,Garam Masala,749.35,kg,5.675,76.63,1142.9,49.69,Grade D,662.99,FAIL
+215843,BCH-0251,2022-11-19,Line 1,Nizamabad Turmeric,Garam Masala,1608.63,kg,12.555,66.99,1275.9,10.84,Grade C,1461.16,FAIL
+248663,BCH-3172,2023-01-31,Line 2,Malabar GM Guild,Turmeric Powder,1425.11,kg,12.601,80.81,1146.7,35.16,Grade A,1168.86,FAIL
+243479,BCH-6376,2022-08-21,Line 2,Nizamabad Turmeric,Coriander Powder,1622.78,kg,6.174,77.95,1303.7,44.62,Grade A,1425.32,PASS
+253777,BCH-1752,2023-09-13,Line 1,Guntur Spices Company,Coriander Powder,611.75,kg,7.62,70.47,1281.2,55.54,Grade A,527.34,FAIL
+292735,BCH-0196,2024-09-29,Line 2,Nizamabad Turmeric Hub,Chilli Powder,1624961.76,grams,7.153,79.96,1359.0,33.72,Grade B,1490308.68,PASS
+253593,BCH-3772,2023-10-02,Line 2,Malabar Garam Masala Guild,Chilli Powder,809.3,kg,6.236,71.92,1329.0,37.14,Grade C,735.12,FAIL
+80612,BCH-5658,2024-11-02,Line 1,Hyderabad Spice Traders,Garam Masala,1045.73,kg,13.665,72.26,1415.7,28.81,Grade A,948.51,FAIL
+277990,BCH-5342,2022-09-03,Line 3,Guntur Spices Co,Coriander Powder,951.42,kg,13.364,71.73,900.0,36.85,Grade B,776.0,FAIL
+151878,BCH-4667,2023-11-14,Line 1,Telangana Agro Mill,Garam Masala,1168.92,kg,7.575,79.42,1155.0,25.73,Grade B,1104.54,FAIL
+64747,BCH-4815,2022-05-20,Line 1,Telangana Agro Mill,Garam Masala,955.39,kg,12.463,89.89,1093.1,47.33,Grade C,864.54,FAIL
+197631,BCH-5093,2023-02-03,Line 2,Nizam Turmeric Hub,Turmeric Powder,1637564.15,grams,6.263,70.83,1004.2,47.53,Grade C,1516528.85,PASS
+111329,BCH-5146,2022-11-16,Line 1,Hyderabad Spice Trader,Chilli Powder,1966477.79,grams,7.136,56.62,1158.6,32.41,Grade B,1683113.45,FAIL
+38202,BCH-8896,2024-08-04,Line 2,Guntur Spices Company,Garam Masala,417.69,kg,12.279,69.57,1181.2,37.22,Grade A,367.63,FAIL
+59526,BCH-8408,2024-10-23,Line 2,Malabar Garam Masala Guild,Coriander Powder,1251.37,kg,5.712,62.56,1364.7,38.62,Grade B,1053.78,FAIL
+210981,BCH-3795,2023-07-18,Line 2,hyd spice traders,Turmeric Powder,1036.43,kg,6.254,76.98,1024.8,42.71,Grade B,851.66,PASS
+278669,BCH-1146,2023-06-04,Line 3,Hyderabad Spice Trader,Chilli Powder,1254314.73,grams,5.326,78.31,1518.4,26.83,Grade B,1029190.4,PASS
+294709,BCH-6371,2024-09-07,Line 3,HYD Spice Traders,Garam Masala,1204413.69,grams,7.953,80.82,1234.7,41.75,Grade B,1017866.85,PASS
+40537,BCH-9094,2022-07-31,Line 3,Guntur Spices Company,Chilli Powder,651.79,kg,6.403,90.92,1259.8,30.76,Grade C,579.98,PASS
+274680,BCH-1261,2024-07-31,Line 1,Hyderabad Spice Trader,Coriander Powder,1293.28,kg,6.347,77.98,1383.4,32.38,Grade A,1220.35,PASS
+226679,BCH-5780,2024-05-03,Line 3,Malabar Masala Guild,Garam Masala,1251.3,kg,14.706,82.37,1227.8,24.65,Grade A,1077.0,FAIL
+108408,BCH-9549,2023-12-23,Line 3,Malabar Masala Guild,Garam Masala,1665.04,kg,11.592,78.72,1484.4,53.98,Grade A,1347.28,PASS
+273762,BCH-1198,2022-07-17,Line 3,Telangana Agro Mills,Garam Masala,1393.86,kg,7.258,67.93,1270.5,24.11,Grade C,1242.28,PASS
+34620,BCH-1867,2024-02-25,Line 1,Nizam Turmeric Hub,Coriander Powder,370.16,kg,10.043,59.16,1016.7,28.15,Grade B,339.16,FAIL
+215722,BCH-6526,2023-07-04,Line 1,Nizam Turmeric Hub,Chilli Powder,1663934.64,grams,11.069,73.52,1383.4,27.23,Grade A,1594747.78,PASS
+275332,BCH-7297,2022-12-04,Line 3,hyd spice traders,Garam Masala,1771439.42,grams,7.393,73.9,1316.9,20.25,Grade B,1469235.66,FAIL
+98728,BCH-3818,2022-06-27,Line 3,Malabar GM Guild,Coriander Powder,1760.92,kg,8.352,78.47,1218.7,46.86,Grade C,1653.56,PASS
+237271,BCH-9805,2023-01-22,Line 2,Deccan Spice Organics,Chilli Powder,1576.18,kg,7.487,74.63,1265.3,16.5,Grade D,1344.77,FAIL
+106574,BCH-5146,2022-02-05,Line 1,Deccan Spices Organics,Turmeric Powder,1894.45,kg,11.76,69.2,1392.5,30.21,Grade A,1635.47,PASS
+297004,BCH-5810,2023-02-21,Line 2,Hyderabad Spice Traders,Coriander Powder,1043.08,kg,5.081,64.43,1397.6,45.17,Grade B,918.1,FAIL
+259878,BCH-1824,2024-07-13,Line 1,hyd spice traders,Turmeric Powder,1563999.73,grams,12.631,67.86,1286.6,40.69,Grade B,1436714.9,PASS
+20282,BCH-5470,2024-08-24,Line 2,hyd spice traders,Turmeric Powder,638.18,kg,10.551,74.2,1452.4,49.7,Grade A,594.96,PASS
+294546,BCH-8565,2024-03-08,Line 3,Nizam Turmeric Hub,Chilli Powder,967182.75,grams,9.685,79.44,1296.2,32.04,Grade C,836225.16,PASS
+102831,BCH-8494,2024-09-29,Line 2,Telangana Agro Mill,Chilli Powder,338.09,kg,7.762,64.97,1282.9,30.06,Grade C,288.28,FAIL
+94106,BCH-8934,2022-12-13,Line 3,Malabar GM Guild,Turmeric Powder,290036.71,grams,12.567,67.93,1361.9,31.73,Grade A,233602.76,FAIL
+215426,BCH-5161,2023-10-01,Line 1,hyd spice traders,Turmeric Powder,1998.4,kg,4.675,78.02,1390.8,54.26,Grade B,1631.67,PASS
+284153,BCH-5177,2024-11-29,Line 3,Guntur Spices Company,Turmeric Powder,640.2,kg,10.254,68.56,1270.6,41.29,Grade C,537.86,PASS
+79983,BCH-7434,2023-11-06,Line 2,Deccan Spice Organics,Garam Masala,1339.59,kg,12.386,84.47,1126.5,43.13,Grade A,1175.54,FAIL
+128959,BCH-6865,2023-07-16,Line 1,Nizamabad Turmeric,Chilli Powder,1005.02,kg,3.707,81.26,1348.0,32.18,Grade B,838.86,PASS
+74914,BCH-5240,2023-04-02,Line 2,Guntur Spices Co,Turmeric Powder,723822.49,grams,8.698,67.67,1427.4,37.82,Grade C,669614.73,FAIL
+173378,BCH-0450,2023-09-07,Line 3,Malabar GM Guild,Coriander Powder,870.31,kg,6.944,70.2,1242.1,41.6,Grade D,814.28,PASS
+196730,BCH-7096,2023-11-07,Line 2,Hyderabad Spice Traders,Coriander Powder,1566975.77,grams,7.003,72.78,1342.9,32.97,Grade B,1366614.78,FAIL
+223477,BCH-5082,2023-06-24,Line 1,Malabar Masala Guild,Garam Masala,741.1,kg,11.088,78.94,1245.9,27.31,Grade D,621.07,PASS
+32179,BCH-9835,2022-11-20,Line 3,Nizamabad Turmeric,Garam Masala,1216.61,kg,7.62,69.96,1338.6,34.05,Grade A,984.72,PASS
+28509,BCH-5445,2024-01-14,Line 3,Telangana Agro Mills,Chilli Powder,1425.17,kg,7.914,70.76,1243.4,33.34,Grade B,1283.25,FAIL
+180164,BCH-0603,2023-04-24,Line 2,HYD Spice Traders,Chilli Powder,1698.36,kg,9.053,80.29,1209.9,46.99,Grade A,1447.51,PASS
+254439,BCH-0666,2023-08-16,Line 1,Malabar GM Guild,Garam Masala,1499676.2,grams,4.512,69.1,1184.6,39.0,Grade B,1359279.35,PASS
+285660,BCH-4140,2023-01-25,Line 2,Guntur Spices Company,Coriander Powder,1898.12,kg,7.254,70.47,1314.0,44.28,Grade B,1575.31,PASS
+16770,BCH-4667,2024-01-01,Line 3,Hyderabad Spice Traders,Garam Masala,1145507.57,grams,11.619,82.05,1077.6,26.25,Grade A,989089.35,PASS
+58398,BCH-9707,2024-07-03,Line 3,Nizamabad Turmeric Hub,Coriander Powder,1169.22,kg,8.929,60.9,1514.4,21.42,Grade B,1022.06,FAIL
+84906,BCH-5758,2023-03-07,Line 1,Malabar Masala Guild,Garam Masala,350.73,kg,7.304,83.16,1020.0,44.71,Grade B,310.48,PASS
+151534,BCH-0517,2022-01-28,Line 2,hyd spice traders,Chilli Powder,1194.5,kg,7.893,86.24,1572.2,39.01,Grade B,1040.68,PASS
+255882,BCH-7096,2024-11-02,Line 3,Tel Agro Mills,Coriander Powder,1829874.39,grams,9.624,79.26,1349.7,43.92,Grade C,1688043.96,PASS
+128610,BCH-8841,2024-09-13,Line 1,Nizam Turmeric Hub,Chilli Powder,797.46,kg,13.149,68.63,914.8,36.46,Grade A,665.05,FAIL
+3113,BCH-6373,2022-01-27,Line 3,Deccan Organic Spices,Turmeric Powder,216.29,kg,10.297,57.83,1357.8,44.15,Grade A,185.12,PASS
+16460,BCH-1636,2023-06-04,Line 2,Guntur Spice Co.,Turmeric Powder,1682.04,kg,7.798,81.12,1424.1,33.07,Grade A,1500.02,PASS
+277370,BCH-9085,2022-02-08,Line 3,Guntur Spices Co,Coriander Powder,502129.44,grams,7.831,75.67,1256.9,38.94,Grade B,413057.0,PASS
+17907,BCH-9318,2024-12-27,Line 3,Hyderabad Spice Trader,Garam Masala,815.61,kg,4.025,67.73,1279.0,29.91,Grade C,712.51,FAIL
+141206,BCH-5548,2023-10-15,Line 1,Deccan Spice Organics,Turmeric Powder,1227.69,kg,9.846,66.57,1386.8,42.85,Grade A,1068.39,PASS
+234272,BCH-7223,2022-09-26,Line 2,Guntur Spices Co,Garam Masala,226.15,kg,7.749,76.13,1009.9,31.48,Grade D,199.47,FAIL
+250595,BCH-0942,2023-02-08,Line 2,Deccan Spice Organics,Chilli Powder,1658978.79,grams,10.119,72.55,1280.9,47.73,Grade B,1324866.18,PASS
+265996,BCH-4339,2023-10-08,Line 1,Tel Agro Mills,Coriander Powder,1814.54,kg,4.426,89.61,941.2,43.44,Grade B,1668.96,FAIL
+153144,BCH-8743,2023-05-08,Line 3,Malabar GM Guild,Turmeric Powder,534.05,kg,9.539,79.54,1271.4,51.5,Grade B,464.01,FAIL
+93782,BCH-8027,2022-05-14,Line 1,Nizamabad Turmeric,Garam Masala,1160521.48,grams,10.474,75.1,1252.2,12.86,Grade B,1083528.92,PASS
+278424,BCH-4928,2023-07-08,Line 1,Malabar Garam Masala Guild,Chilli Powder,371078.42,grams,9.754,70.75,1352.2,35.11,Grade B,303665.79,PASS
+288088,BCH-1652,2023-11-30,Line 3,Nizam Turmeric Hub,Chilli Powder,1586.94,kg,4.893,77.57,900.0,19.26,Grade B,1440.99,PASS
+103352,BCH-3419,2024-01-05,Line 1,Malabar GM Guild,Chilli Powder,692234.3,grams,10.147,70.82,1060.8,22.52,Grade B,600379.41,FAIL
+288627,BCH-4955,2022-12-18,Line 2,Nizamabad Turmeric Hub,Chilli Powder,1666.87,kg,3.595,76.31,1401.0,47.19,Grade A,1529.7,PASS
+75787,BCH-8879,2022-10-11,Line 1,Guntur Spices Company,Turmeric Powder,1465.23,kg,10.495,69.27,900.0,26.69,Grade A,1222.83,FAIL
+130302,BCH-6273,2024-01-05,Line 1,Guntur Spices Co,Turmeric Powder,353423.96,grams,10.278,64.53,1361.4,45.99,Grade C,335986.99,FAIL
+166862,BCH-5724,2022-12-26,Line 2,Guntur Spices Co,Coriander Powder,1213711.74,grams,7.044,88.37,1421.3,41.14,Grade C,1009746.94,FAIL
+254429,BCH-3800,2023-10-15,Line 1,Telangana Agro Mills,Coriander Powder,556.14,kg,7.724,74.46,1371.4,31.2,Grade B,529.1,PASS
+75617,BCH-3642,2022-02-12,Line 2,Telangana Agro Mill,Chilli Powder,940.84,kg,7.405,78.53,1091.3,27.46,Grade B,843.73,FAIL
+224059,BCH-4482,2024-12-13,Line 2,Tel Agro Mills,Coriander Powder,1631.56,kg,7.225,67.85,1400.4,30.64,Grade B,1336.62,PASS
+254676,BCH-5591,2022-05-13,Line 3,Nizam Turmeric Hub,Garam Masala,1490.77,kg,4.398,67.45,1081.8,41.64,Grade A,1437.54,PASS
+13059,BCH-1523,2024-05-10,Line 2,Guntur Spices Co,Coriander Powder,749.97,kg,10.22,76.83,1392.1,35.91,Grade C,702.67,PASS
+175177,BCH-9343,2024-03-25,Line 3,Deccan Spice Organics,Garam Masala,488.71,kg,6.732,74.37,1417.8,33.79,Grade A,440.52,PASS
+248224,BCH-4951,2022-06-26,Line 1,Hyderabad Spice Traders,Coriander Powder,1695.86,kg,3.403,76.04,1375.9,38.42,Grade A,1543.58,PASS
+235489,BCH-7169,2022-09-10,Line 2,Guntur Spices Company,Garam Masala,1619.15,kg,11.541,81.35,1131.9,30.15,Grade A,1379.68,PASS
+168626,BCH-7826,2022-10-30,Line 1,Hyderabad Spice Trader,Coriander Powder,1679505.82,grams,8.943,81.75,1359.3,64.1,Grade A,1489444.59,PASS
+184539,BCH-5569,2022-09-10,Line 3,Deccan Spice Organics,Chilli Powder,433.76,kg,6.656,77.06,1285.2,46.78,Grade A,404.45,PASS
+230465,BCH-4470,2024-05-02,Line 1,Hyderabad Spice Traders,Coriander Powder,1650.07,kg,3.449,71.54,978.9,45.18,Grade A,1434.01,FAIL
+63188,BCH-0249,2023-02-27,Line 1,Malabar Masala Guild,Turmeric Powder,856.29,kg,10.211,75.53,1174.4,51.5,Grade B,689.23,PASS
+118738,BCH-4445,2022-11-29,Line 3,Nizam Turmeric Hub,Garam Masala,246.98,kg,7.192,67.85,1301.2,35.6,Grade A,227.37,FAIL
+259290,BCH-1949,2024-06-22,Line 1,Deccan Spice Organics,Chilli Powder,586280.67,grams,5.315,75.36,1468.4,13.82,Grade B,531634.77,PASS
+14277,BCH-9248,2022-05-03,Line 3,Deccan Spice Organics,Garam Masala,840890.44,grams,11.325,71.19,1170.0,20.41,Grade B,718454.89,FAIL
+241108,BCH-9691,2023-06-14,Line 1,Deccan Spices Organics,Turmeric Powder,646.39,kg,5.754,89.14,1141.2,42.9,Grade B,576.42,FAIL
+262032,BCH-0741,2024-01-07,Line 2,Telangana Agro Mill,Chilli Powder,1902.01,kg,6.461,58.48,1241.4,34.25,Grade B,1534.36,FAIL
+243393,BCH-4797,2022-10-28,Line 3,Guntur Spices Company,Chilli Powder,707.67,kg,9.178,75.27,1209.6,41.28,Grade A,673.65,PASS
+143716,BCH-5449,2023-08-15,Line 2,Malabar GM Guild,Turmeric Powder,480.8,kg,3.982,72.68,1308.8,46.0,Grade B,398.55,FAIL
+44644,BCH-7297,2023-12-02,Line 3,Guntur Spices Company,Coriander Powder,620.42,kg,4.826,82.59,1115.7,20.53,Grade A,534.21,FAIL
+214990,BCH-8497,2023-12-21,Line 1,Guntur Spices Company,Coriander Powder,1184.26,kg,11.163,71.85,1130.0,49.05,Grade A,1110.46,PASS
+265570,BCH-0541,2023-12-18,Line 1,Malabar Masala Guild,Chilli Powder,690.62,kg,10.745,68.26,1327.9,36.72,Grade C,648.3,PASS
+38842,BCH-8469,2022-12-03,Line 1,Telangana Agro Mills,Garam Masala,553.97,kg,4.81,79.43,900.0,10.0,Grade B,518.54,PASS
+107605,BCH-2780,2023-05-27,Line 1,Deccan Organic Spices,Chilli Powder,673.58,kg,11.986,79.39,1508.5,48.97,Grade D,540.4,FAIL
+241324,BCH-7471,2023-10-25,Line 2,Telangana Agro Mills,Garam Masala,1801.07,kg,12.879,73.6,1041.1,25.76,Grade A,1626.08,FAIL
+42919,BCH-6348,2023-04-09,Line 3,Tel Agro Mills,Turmeric Powder,1086.54,kg,6.633,68.99,1084.7,36.68,Grade D,994.43,FAIL
+152846,BCH-4931,2022-01-08,Line 2,Guntur Spices Co,Garam Masala,626.97,kg,11.38,100.14,1377.2,42.97,Grade A,581.62,PASS
+234392,BCH-1949,2023-07-09,Line 1,hyd spice traders,Turmeric Powder,1874268.95,grams,10.979,71.48,1504.8,34.64,Grade A,1561206.02,PASS
+115581,BCH-4695,2022-12-22,Line 3,Hyderabad Spice Trader,Chilli Powder,1220.89,kg,11.137,72.41,932.7,33.47,Grade A,1093.43,PASS
+113706,BCH-4126,2022-03-10,Line 3,Nizam Turmeric Hub,Coriander Powder,1267.73,kg,4.813,72.52,1459.1,29.04,Grade A,1079.26,PASS
+88189,BCH-7584,2024-08-26,Line 1,Deccan Spice Organics,Turmeric Powder,1948.43,kg,12.359,81.12,1384.8,30.97,Grade B,1719.82,PASS
+176022,BCH-2283,2024-08-31,Line 3,Deccan Organic Spices,Turmeric Powder,1536119.67,grams,4.961,67.96,1199.7,29.12,Grade A,1222442.59,PASS
+169339,BCH-8685,2022-02-14,Line 3,Deccan Spices Organics,Turmeric Powder,1319.59,kg,5.414,60.88,1134.4,30.33,Grade A,1083.8,PASS
+82682,BCH-9016,2022-06-10,Line 3,Malabar GM Guild,Chilli Powder,1893.05,kg,7.276,57.57,1206.4,38.81,Grade C,1594.94,PASS
+87742,BCH-8183,2024-08-19,Line 3,Guntur Spice Co.,Chilli Powder,312801.67,grams,10.451,73.87,1228.8,42.59,Grade B,276656.07,PASS
+136130,BCH-6218,2023-04-24,Line 1,Guntur Spice Co.,Coriander Powder,449996.61,grams,12.222,75.7,1165.4,27.42,Grade A,354400.13,FAIL
+144950,BCH-5017,2024-07-24,Line 2,Telangana Agro Mill,Coriander Powder,1823.93,kg,9.662,63.6,1026.5,23.59,Grade A,1494.86,PASS
+263068,BCH-2909,2023-12-28,Line 1,Malabar Garam Masala Guild,Turmeric Powder,368399.29,grams,12.91,74.31,1152.7,33.26,Grade A,322646.27,PASS
+6137,BCH-8803,2024-02-22,Line 1,Malabar GM Guild,Chilli Powder,1673.92,kg,5.531,63.34,1256.7,40.25,Grade B,1430.13,FAIL
+178028,BCH-2351,2023-07-20,Line 1,Nizam Turmeric Hub,Turmeric Powder,1782.39,kg,10.971,78.97,1230.1,37.51,Grade C,1665.9,FAIL
+39892,BCH-4204,2022-03-26,Line 1,Malabar GM Guild,Chilli Powder,1245.6,kg,10.33,79.53,1208.9,40.33,Grade A,1115.92,PASS
+131725,BCH-6604,2024-05-01,Line 3,Hyderabad Spice Traders,Garam Masala,987682.65,grams,9.613,66.74,1546.7,18.83,Grade B,920271.72,PASS
+167005,BCH-3060,2022-12-24,Line 1,Deccan Spice Organics,Coriander Powder,1772.4,kg,5.465,73.2,1545.1,40.47,Grade A,1582.48,PASS
+145995,BCH-2670,2022-05-16,Line 2,Hyderabad Spice Trader,Garam Masala,1112.38,kg,7.212,79.31,1381.5,38.92,Grade C,883.83,PASS
+92647,BCH-0347,2022-04-14,Line 1,Deccan Spices Organics,Garam Masala,732.04,kg,9.95,82.61,1250.1,39.73,Grade B,621.62,PASS
+292108,BCH-7943,2022-04-14,Line 3,hyd spice traders,Chilli Powder,1971.28,kg,8.14,72.64,1216.3,46.13,Grade C,1781.95,PASS
+143514,BCH-7436,2024-08-15,Line 1,Deccan Spice Organics,Chilli Powder,1801.81,kg,11.178,77.46,1396.1,27.79,Grade A,1499.25,PASS
+182462,BCH-2880,2022-08-23,Line 1,Malabar GM Guild,Garam Masala,1654.34,kg,10.749,67.05,1332.5,40.13,Grade B,1419.44,PASS
+71520,BCH-9615,2022-04-30,Line 1,Telangana Agro Mills,Garam Masala,629.99,kg,7.273,69.91,1314.3,53.5,Grade A,557.73,PASS
+202443,BCH-4352,2024-09-08,Line 1,Malabar GM Guild,Coriander Powder,1530.09,kg,5.767,74.29,1043.5,30.76,Grade A,1262.43,PASS
+76800,BCH-1107,2023-12-25,Line 2,Nizamabad Turmeric Hub,Coriander Powder,850.91,kg,11.023,78.13,1255.6,22.34,Grade B,765.62,PASS
+46428,BCH-9318,2023-08-18,Line 3,Tel Agro Mills,Garam Masala,1695.57,kg,9.425,63.35,911.9,37.82,Grade A,1479.9,PASS
+104775,BCH-1311,2023-04-11,Line 3,Deccan Organic Spices,Garam Masala,665.1,kg,5.284,73.06,957.0,34.42,Grade C,558.25,FAIL
+89443,BCH-1107,2024-05-23,Line 1,Telangana Agro Mills,Turmeric Powder,1347277.69,grams,10.151,78.02,1346.3,23.41,Grade C,1099058.27,PASS
+276554,BCH-2355,2023-11-30,Line 2,Nizam Turmeric Hub,Turmeric Powder,890.45,kg,8.875,69.97,1385.9,41.2,Grade A,804.06,PASS
+42834,BCH-8373,2023-12-04,Line 1,Guntur Spices Company,Chilli Powder,1493839.39,grams,7.996,87.68,1238.8,41.3,Grade A,1217764.16,FAIL
+223244,BCH-2899,2022-02-01,Line 3,Deccan Organic Spices,Coriander Powder,996069.15,grams,8.236,72.66,1140.2,31.42,Grade B,800805.51,PASS
+159544,BCH-7775,2023-05-11,Line 2,Nizam Turmeric Hub,Chilli Powder,1493.68,kg,11.421,82.66,1396.3,38.44,Grade C,1226.86,FAIL
+274282,BCH-5952,2022-05-30,Line 2,Deccan Spice Organics,Turmeric Powder,1497.93,kg,8.947,102.36,1208.4,35.81,Grade C,1382.64,FAIL
+51774,BCH-0206,2022-11-13,Line 3,Deccan Spices Organics,Coriander Powder,245.53,kg,8.935,63.47,1001.7,31.8,Grade B,213.91,FAIL
+26838,BCH-5045,2023-04-02,Line 1,Malabar Masala Guild,Chilli Powder,648.0,kg,6.459,68.06,1281.9,36.46,Grade C,582.75,FAIL
+186745,BCH-6574,2023-08-17,Line 3,Deccan Spices Organics,Chilli Powder,539.02,kg,12.805,76.78,1126.7,39.19,Grade A,508.55,PASS
+83044,BCH-0545,2024-07-07,Line 2,Nizamabad Turmeric Hub,Garam Masala,335.49,kg,7.039,88.81,1383.2,35.66,Grade D,297.64,PASS
+273862,BCH-2441,2023-12-26,Line 2,hyd spice traders,Coriander Powder,230387.37,grams,11.54,65.17,1553.9,18.63,Grade A,190376.27,PASS
+92375,BCH-1341,2024-07-05,Line 2,Deccan Spices Organics,Chilli Powder,993.87,kg,12.193,70.02,1428.6,37.38,Grade A,880.52,PASS
+165840,BCH-0819,2024-05-16,Line 1,HYD Spice Traders,Turmeric Powder,740.8,kg,8.778,64.16,1487.8,28.59,Grade A,638.66,FAIL
+47514,BCH-9055,2024-09-02,Line 1,hyd spice traders,Garam Masala,400.15,kg,4.255,61.76,983.8,24.65,Grade D,329.49,FAIL
+39712,BCH-2966,2022-09-05,Line 3,Nizam Turmeric Hub,Chilli Powder,1063.09,kg,5.501,70.57,1151.9,55.02,Grade C,840.66,FAIL
+83110,BCH-4151,2024-09-08,Line 2,Guntur Spice Co.,Coriander Powder,1964421.67,grams,10.259,76.15,1391.1,32.99,Grade A,1822714.67,PASS
+7515,BCH-0370,2022-03-01,Line 3,Hyderabad Spice Trader,Garam Masala,1530.19,kg,9.97,89.4,1600.0,18.28,Grade A,1453.21,FAIL
+54104,BCH-3195,2024-03-18,Line 2,Guntur Spices Co,Coriander Powder,1079595.68,grams,4.608,74.76,1167.0,45.17,Grade B,988438.26,PASS
+285589,BCH-1555,2022-08-14,Line 1,Malabar Garam Masala Guild,Garam Masala,1565.36,kg,11.615,75.95,1117.6,39.8,Grade A,1352.05,PASS
+70006,BCH-5332,2023-12-29,Line 1,HYD Spice Traders,Chilli Powder,870.4,kg,4.967,78.45,1177.9,59.97,Grade D,826.01,FAIL
+270142,BCH-0048,2023-08-08,Line 1,Telangana Agro Mills,Coriander Powder,300665.72,grams,7.617,67.47,1277.2,29.2,Grade A,277872.08,PASS
+141310,BCH-2899,2024-03-13,Line 3,Deccan Spices Organics,Chilli Powder,1663.97,kg,3.787,62.91,1373.6,41.33,Grade A,1546.04,PASS
+132691,BCH-9913,2022-03-15,Line 2,Guntur Spices Co,Coriander Powder,1848.1,kg,5.707,72.81,1110.8,26.38,Grade A,1490.05,PASS
+103717,BCH-9683,2022-08-01,Line 2,Malabar Garam Masala Guild,Coriander Powder,1087479.67,grams,6.13,86.5,1138.2,30.65,Grade B,884007.78,PASS
+58221,BCH-4064,2022-01-14,Line 1,Guntur Spices Co,Coriander Powder,1781.36,kg,5.172,83.69,1327.1,43.86,Grade C,1624.98,PASS
+47792,BCH-1446,2024-01-26,Line 3,Deccan Organic Spices,Turmeric Powder,847.71,kg,6.428,82.83,1103.1,23.25,Grade A,699.45,PASS
+35062,BCH-8373,2024-10-01,Line 3,Nizamabad Turmeric Hub,Turmeric Powder,1786.51,kg,9.58,88.8,1183.6,38.71,Grade A,1559.72,FAIL
+117985,BCH-9531,2023-02-25,Line 2,Telangana Agro Mills,Garam Masala,1724.38,kg,8.353,91.0,1154.8,31.13,Grade A,1560.05,FAIL
+258492,BCH-7952,2023-09-13,Line 1,Deccan Organic Spices,Chilli Powder,1368.5,kg,6.459,71.67,1171.5,25.25,Grade C,1144.83,PASS
+159322,BCH-9951,2024-03-22,Line 3,Hyderabad Spice Trader,Chilli Powder,275.6,kg,4.898,73.34,1503.1,31.53,Grade A,260.51,PASS
+176637,BCH-0767,2024-12-11,Line 1,Malabar Masala Guild,Chilli Powder,1637.6,kg,9.657,61.24,1045.1,37.74,Grade A,1540.54,FAIL
+156876,BCH-1694,2023-01-20,Line 3,Nizamabad Turmeric,Turmeric Powder,1242.72,kg,7.918,71.76,1336.2,47.54,Grade B,1087.2,FAIL
+131397,BCH-0474,2022-10-17,Line 1,Guntur Spices Co,Garam Masala,1277.02,kg,8.678,82.51,1347.4,34.97,Grade A,1191.81,PASS
+57719,BCH-6340,2023-09-16,Line 3,Guntur Spices Company,Coriander Powder,1976.2,kg,8.71,71.59,1128.1,44.47,Grade B,1675.6,PASS
+274033,BCH-3941,2023-11-25,Line 1,Nizamabad Turmeric Hub,Turmeric Powder,1122.06,kg,9.462,89.82,1198.6,49.55,Grade A,918.58,PASS
+55608,BCH-8461,2022-02-11,Line 3,Deccan Spices Organics,Coriander Powder,1244.51,kg,11.339,76.49,1053.4,38.81,Grade B,1086.14,FAIL
+266183,BCH-9090,2023-10-18,Line 2,hyd spice traders,Chilli Powder,348862.56,grams,11.365,69.39,1297.6,32.39,Grade B,304127.8,PASS
+56003,BCH-8874,2023-01-18,Line 1,Deccan Spice Organics,Garam Masala,530.62,kg,13.474,71.38,1269.9,17.7,Grade A,496.33,PASS
+25996,BCH-1563,2024-05-06,Line 2,Telangana Agro Mill,Garam Masala,1307548.94,grams,1.347,72.73,946.0,35.68,Grade A,1213198.3,PASS
+201167,BCH-2912,2022-06-19,Line 2,Nizamabad Turmeric,Chilli Powder,489.45,kg,7.805,70.44,1296.0,25.81,Grade B,441.42,PASS
+86872,BCH-5544,2023-09-20,Line 1,Deccan Spice Organics,Chilli Powder,326.19,kg,5.556,69.19,1475.3,37.02,Grade A,280.78,PASS
+44572,BCH-6031,2023-09-22,Line 1,Hyderabad Spice Traders,Turmeric Powder,550049.85,grams,9.245,85.75,1394.4,43.72,Grade C,490476.98,FAIL
+171963,BCH-1494,2023-02-06,Line 3,Deccan Organic Spices,Chilli Powder,1134.03,kg,10.397,80.76,1009.0,47.97,Grade A,1062.94,PASS
+68119,BCH-0093,2023-05-29,Line 1,HYD Spice Traders,Coriander Powder,1292.53,kg,9.642,78.7,1027.2,29.33,Grade A,1205.36,FAIL
+134050,BCH-6163,2023-09-19,Line 1,Telangana Agro Mills,Garam Masala,419.83,kg,7.818,67.61,1223.1,32.1,Grade D,362.25,PASS
+204860,BCH-8811,2023-11-02,Line 3,Nizamabad Turmeric,Turmeric Powder,1400302.69,grams,7.404,71.68,1108.0,48.21,Grade A,1148479.38,PASS
+40500,BCH-4505,2022-01-05,Line 3,Tel Agro Mills,Garam Masala,1987388.29,grams,8.905,83.58,1323.0,23.39,Grade A,1803515.51,FAIL
+104993,BCH-2498,2024-07-27,Line 2,hyd spice traders,Chilli Powder,304842.12,grams,10.426,81.26,1111.1,13.56,Grade A,260224.4,PASS
+244826,BCH-1523,2022-06-18,Line 2,Nizam Turmeric Hub,Garam Masala,1807.83,kg,4.726,63.19,1263.1,42.83,Grade B,1478.95,FAIL
+204267,BCH-1116,2024-08-11,Line 3,Nizam Turmeric Hub,Chilli Powder,1589.01,kg,8.733,75.66,1600.0,40.22,Grade A,1269.11,FAIL
+259567,BCH-4337,2024-07-14,Line 1,Guntur Spice Co.,Chilli Powder,904.75,kg,10.789,75.28,1130.9,44.79,Grade A,797.53,PASS
+81303,BCH-4763,2023-08-25,Line 3,Deccan Spice Organics,Chilli Powder,1199148.39,grams,3.495,86.52,1417.6,26.3,Grade B,1131016.25,PASS
+110798,BCH-5466,2022-01-31,Line 2,Hyderabad Spice Traders,Chilli Powder,1288.42,kg,5.126,69.62,1079.7,29.04,Grade C,1137.5,FAIL
+45258,BCH-1760,2022-10-29,Line 1,Nizamabad Turmeric,Garam Masala,1302699.21,grams,6.411,76.84,1337.4,47.99,Grade A,1178571.68,PASS
+152816,BCH-2483,2022-03-08,Line 1,Telangana Agro Mill,Garam Masala,1395.52,kg,12.229,60.89,1068.3,41.98,Grade A,1262.33,FAIL
+156237,BCH-1382,2024-07-26,Line 2,Deccan Spices Organics,Garam Masala,315.79,kg,7.952,70.59,1292.0,26.69,Grade A,274.44,PASS
+234189,BCH-6712,2023-04-06,Line 1,Nizamabad Turmeric Hub,Garam Masala,643.76,kg,8.224,66.87,1235.0,25.53,Grade B,521.31,PASS
+31592,BCH-9415,2024-09-22,Line 3,Telangana Agro Mill,Garam Masala,1205791.81,grams,5.705,69.63,1127.5,41.09,Grade B,998514.35,PASS
+194839,BCH-2120,2023-07-15,Line 1,Guntur Spice Co.,Coriander Powder,771.36,kg,10.167,60.34,1071.7,24.37,Grade A,658.13,PASS
+228040,BCH-5073,2024-03-05,Line 2,Tel Agro Mills,Chilli Powder,882174.64,grams,7.25,74.34,1376.5,34.97,Grade A,740645.65,FAIL
+175735,BCH-5361,2023-02-25,Line 1,Guntur Spice Co.,Garam Masala,1964.79,kg,6.028,69.37,1361.8,33.28,Grade B,1788.16,PASS
+226602,BCH-9359,2023-07-26,Line 2,Nizam Turmeric Hub,Chilli Powder,1439.01,kg,11.526,83.05,1324.5,49.83,Grade A,1199.3,PASS
+30371,BCH-0828,2023-04-29,Line 1,Hyderabad Spice Trader,Chilli Powder,1309.66,kg,11.626,68.12,1108.0,42.01,Grade A,1190.59,PASS
+264397,BCH-0534,2023-11-03,Line 2,Nizamabad Turmeric Hub,Garam Masala,618.45,kg,11.306,79.07,1357.8,31.28,Grade A,507.12,FAIL
+76147,BCH-9248,2022-07-11,Line 2,Deccan Spice Organics,Chilli Powder,577583.96,grams,7.346,75.88,1370.5,33.56,Grade C,509541.08,FAIL
+281871,BCH-7375,2023-01-26,Line 3,hyd spice traders,Turmeric Powder,437857.29,grams,3.844,64.71,1085.1,45.88,Grade A,369795.73,FAIL
+125560,BCH-0718,2022-07-18,Line 1,Malabar GM Guild,Garam Masala,1431883.7,grams,6.922,74.81,1230.0,30.67,Grade B,1184440.8,PASS
+75544,BCH-2021,2023-02-18,Line 2,Malabar GM Guild,Turmeric Powder,1128.34,kg,11.78,82.49,1159.9,27.91,Grade B,948.85,PASS
+259929,BCH-4619,2022-01-07,Line 2,Guntur Spices Company,Garam Masala,413059.67,grams,13.236,59.12,1411.0,51.15,Grade B,390148.42,FAIL
+117452,BCH-6345,2023-08-05,Line 1,Deccan Spices Organics,Turmeric Powder,1965827.76,grams,6.955,69.54,1251.2,27.64,Grade B,1600161.46,FAIL
+70410,BCH-3014,2022-08-17,Line 2,Telangana Agro Mill,Coriander Powder,1440.34,kg,10.931,75.35,1361.6,26.48,Grade A,1322.33,PASS
+263257,BCH-4466,2023-06-01,Line 1,Guntur Spices Co,Turmeric Powder,1832.91,kg,7.251,67.22,1400.0,40.95,Grade B,1582.91,PASS
+244159,BCH-9834,2024-09-16,Line 3,Guntur Spice Co.,Turmeric Powder,1912.33,kg,11.854,58.81,1386.0,28.46,Grade C,1572.44,FAIL
+118080,BCH-4867,2022-12-20,Line 3,hyd spice traders,Chilli Powder,807.09,kg,11.093,75.33,1600.0,23.55,Grade D,740.95,FAIL
+151885,BCH-5297,2023-04-15,Line 2,Deccan Spice Organics,Garam Masala,313217.14,grams,7.77,76.55,1352.8,32.76,Grade C,285076.26,FAIL
+123554,BCH-3597,2024-11-05,Line 1,Telangana Agro Mill,Garam Masala,1802965.44,grams,8.03,57.58,1205.2,41.73,Grade C,1586312.24,FAIL
+216580,BCH-7257,2024-06-14,Line 1,Guntur Spice Co.,Turmeric Powder,1322.9,kg,8.894,57.7,1294.3,37.92,Grade A,1123.44,PASS
+234128,BCH-5665,2024-06-14,Line 2,Telangana Agro Mills,Garam Masala,1749.11,kg,11.905,60.9,1239.9,19.17,Grade B,1559.11,PASS
+92073,BCH-1261,2024-02-23,Line 3,hyd spice traders,Coriander Powder,1884.26,kg,7.011,60.36,1308.5,41.41,Grade B,1686.27,PASS
+267638,BCH-0049,2022-05-18,Line 3,Telangana Agro Mills,Turmeric Powder,1427.87,kg,7.696,78.24,1404.6,32.29,Grade B,1173.26,PASS
+294127,BCH-8900,2022-05-27,Line 2,Nizamabad Turmeric,Garam Masala,1334.81,kg,8.481,74.49,1346.1,48.05,Grade B,1131.22,PASS
+149827,BCH-5907,2023-01-31,Line 2,Deccan Organic Spices,Coriander Powder,1145.43,kg,5.178,68.78,1231.2,19.58,Grade B,988.72,PASS
+201553,BCH-2748,2022-11-20,Line 2,Deccan Organic Spices,Coriander Powder,1788805.93,grams,7.52,83.41,1342.1,14.15,Grade A,1576951.47,FAIL
+153255,BCH-0074,2022-12-22,Line 2,Guntur Spices Company,Garam Masala,962.52,kg,9.988,76.33,1520.3,26.87,Grade C,834.31,FAIL
+108263,BCH-4958,2022-09-22,Line 3,Nizam Turmeric Hub,Garam Masala,702739.87,grams,13.032,60.87,999.1,32.68,Grade A,574091.01,FAIL
+243442,BCH-5310,2022-09-01,Line 3,Nizamabad Turmeric Hub,Chilli Powder,308.16,kg,7.64,66.15,1266.7,55.53,Grade C,270.47,FAIL
+189500,BCH-6708,2024-10-05,Line 1,Deccan Spice Organics,Turmeric Powder,1576446.04,grams,7.428,70.33,1249.4,45.28,Grade D,1317299.93,FAIL
+151031,BCH-6948,2022-09-03,Line 2,HYD Spice Traders,Chilli Powder,817.33,kg,14.718,87.01,1155.8,45.3,Grade C,716.44,FAIL
+12337,BCH-9267,2023-08-29,Line 1,Tel Agro Mills,Garam Masala,599590.62,grams,6.228,84.45,1229.4,32.46,Grade B,526726.14,PASS
+176609,BCH-5449,2024-10-12,Line 3,Nizam Turmeric Hub,Coriander Powder,1669.82,kg,5.066,62.72,1144.8,41.92,Grade B,1528.56,PASS
+60519,BCH-9380,2022-11-16,Line 1,Deccan Organic Spices,Chilli Powder,1298.36,kg,9.666,76.19,1098.9,43.47,Grade B,1131.68,FAIL
+147453,BCH-0217,2023-10-22,Line 3,Malabar Masala Guild,Chilli Powder,893017.14,grams,5.536,70.45,1231.9,40.29,Grade B,795500.57,PASS
+174535,BCH-2439,2024-03-05,Line 2,Nizamabad Turmeric Hub,Chilli Powder,1044.86,kg,5.696,63.5,1303.9,30.2,Grade A,891.51,FAIL
+258181,BCH-8790,2022-12-12,Line 1,Nizamabad Turmeric,Chilli Powder,273.97,kg,8.806,79.41,1186.0,13.17,Grade B,238.43,FAIL
+204328,BCH-8556,2022-06-27,Line 3,Deccan Organic Spices,Chilli Powder,285691.23,grams,7.68,79.93,1035.3,35.84,Grade A,246580.72,PASS
+41263,BCH-1369,2023-10-09,Line 1,Deccan Spice Organics,Chilli Powder,861.39,kg,9.526,90.22,1452.8,35.66,Grade A,787.94,FAIL
+173240,BCH-0359,2023-10-18,Line 1,Deccan Organic Spices,Chilli Powder,323034.04,grams,11.377,79.48,1036.7,34.81,Grade A,300611.17,PASS
+288012,BCH-5482,2023-08-24,Line 1,Nizamabad Turmeric Hub,Coriander Powder,924.05,kg,7.362,86.43,1229.2,28.7,Grade B,801.44,PASS
+107338,BCH-9488,2023-09-17,Line 2,Guntur Spices Co,Coriander Powder,1225.77,kg,7.107,67.26,1443.9,20.2,Grade B,1005.57,PASS
+274634,BCH-3015,2023-03-06,Line 3,Guntur Spice Co.,Turmeric Powder,1238.49,kg,4.73,82.39,1139.5,24.12,Grade A,1096.69,PASS
+175253,BCH-4650,2024-12-20,Line 3,Hyderabad Spice Traders,Garam Masala,1204.78,kg,6.347,76.17,1390.2,33.4,Grade C,1086.04,FAIL
+109457,BCH-2670,2023-08-13,Line 3,Deccan Spices Organics,Chilli Powder,273094.58,grams,8.661,76.45,1417.0,33.43,Grade B,243206.09,FAIL
+119477,BCH-1523,2023-11-03,Line 2,Deccan Spices Organics,Chilli Powder,1200585.42,grams,5.996,63.38,1487.6,42.47,Grade B,962977.36,PASS
+260097,BCH-5985,2023-03-02,Line 2,Telangana Agro Mills,Coriander Powder,1857.74,kg,5.647,85.94,1178.0,55.24,Grade A,1711.18,PASS
+262242,BCH-4488,2023-08-24,Line 1,Guntur Spices Company,Turmeric Powder,1592.68,kg,8.379,68.79,1510.7,36.48,Grade B,1509.92,PASS
+33633,BCH-2748,2022-08-25,Line 1,Telangana Agro Mills,Garam Masala,1308.74,kg,6.743,71.6,1219.8,20.85,Grade A,1076.13,PASS
+94853,BCH-7234,2022-11-10,Line 2,Deccan Spice Organics,Chilli Powder,700.56,kg,9.265,77.94,1313.1,41.69,Grade B,646.91,PASS
+62073,BCH-7860,2023-11-21,Line 1,Nizam Turmeric Hub,Chilli Powder,674393.07,grams,6.518,62.08,1228.6,33.99,Grade D,627626.12,FAIL
+1290,BCH-3356,2023-11-20,Line 2,Deccan Spice Organics,Garam Masala,1186891.12,grams,9.147,82.04,1119.3,21.08,Grade B,1006746.68,PASS
+212947,BCH-6837,2023-03-26,Line 2,Guntur Spices Co,Turmeric Powder,816.51,kg,4.601,77.97,1157.9,37.21,Grade C,772.32,PASS
+243813,BCH-1382,2024-10-24,Line 3,Telangana Agro Mill,Garam Masala,1600882.67,grams,4.144,78.81,1347.4,54.68,Grade A,1330599.32,PASS
+289798,BCH-0893,2024-04-02,Line 3,Guntur Spices Co,Coriander Powder,1597.6,kg,9.416,79.98,1393.9,32.28,Grade B,1359.83,PASS
+139118,BCH-3465,2022-05-28,Line 1,Guntur Spices Company,Chilli Powder,676377.71,grams,11.488,93.51,1379.8,23.79,Grade A,591223.61,FAIL
+94885,BCH-8533,2022-06-20,Line 2,Telangana Agro Mills,Garam Masala,892894.44,grams,9.274,68.5,1057.2,30.87,Grade C,795115.79,PASS
+153006,BCH-8082,2022-11-17,Line 2,Hyderabad Spice Traders,Turmeric Powder,338.85,kg,12.292,67.25,1012.8,36.11,Grade C,312.7,FAIL
+223766,BCH-2384,2023-07-27,Line 1,Malabar Garam Masala Guild,Coriander Powder,1466.45,kg,8.116,83.08,1248.0,42.03,Grade A,1190.96,PASS
+149008,BCH-8875,2023-02-05,Line 2,Guntur Spices Co,Chilli Powder,1387.55,kg,9.859,64.18,1179.7,35.13,Grade A,1111.34,FAIL
+177729,BCH-7488,2024-08-26,Line 2,Malabar Garam Masala Guild,Coriander Powder,720.38,kg,6.087,79.24,1064.6,34.64,Grade B,605.78,FAIL
+89878,BCH-1949,2023-08-20,Line 2,Hyderabad Spice Traders,Coriander Powder,1533.21,kg,7.607,74.54,1088.1,53.99,Grade B,1241.94,FAIL
+204845,BCH-8408,2024-11-27,Line 1,Telangana Agro Mills,Coriander Powder,1119824.82,grams,7.838,77.95,1244.3,18.71,Grade B,892658.81,FAIL
+235395,BCH-1743,2024-01-05,Line 2,Nizamabad Turmeric,Turmeric Powder,1301.16,kg,11.106,67.89,1562.7,39.76,Grade D,1197.39,FAIL
+249782,BCH-5010,2022-01-31,Line 3,Guntur Spices Co,Coriander Powder,1737.99,kg,6.457,82.2,1274.8,40.35,Grade B,1623.22,FAIL
+87717,BCH-4988,2024-05-29,Line 1,Malabar GM Guild,Chilli Powder,1828.65,kg,8.141,72.15,1521.7,10.0,Grade B,1739.03,FAIL
+75190,BCH-1999,2024-08-26,Line 1,Malabar Garam Masala Guild,Garam Masala,316.09,kg,11.185,77.61,1516.1,40.31,Grade A,287.96,PASS
+286934,BCH-0819,2024-11-06,Line 1,Hyderabad Spice Traders,Turmeric Powder,969.73,kg,7.221,73.37,1401.6,32.25,Grade C,896.6,PASS
+238370,BCH-5132,2024-12-15,Line 2,Malabar Masala Guild,Garam Masala,987.48,kg,8.779,64.54,1021.9,22.7,Grade A,930.56,FAIL
+193161,BCH-5029,2022-12-17,Line 1,Telangana Agro Mills,Turmeric Powder,1078.87,kg,8.314,79.67,1183.8,44.13,Grade B,972.41,PASS
+125123,BCH-7270,2023-06-18,Line 3,Hyderabad Spice Trader,Chilli Powder,1039.68,kg,7.574,90.96,1277.8,42.87,Grade C,984.17,PASS
+227253,BCH-0302,2022-10-31,Line 3,Nizam Turmeric Hub,Garam Masala,1795.56,kg,12.905,66.2,1298.8,39.13,Grade B,1518.15,PASS
+51948,BCH-4457,2022-03-21,Line 2,hyd spice traders,Turmeric Powder,1865105.78,grams,8.364,82.56,900.0,31.32,Grade C,1629100.37,PASS
+109419,BCH-5497,2024-10-30,Line 2,Telangana Agro Mills,Coriander Powder,1274145.94,grams,9.432,73.4,1175.2,41.33,Grade C,1105768.53,PASS
+40399,BCH-0911,2023-02-21,Line 1,Guntur Spices Co,Chilli Powder,1506941.8,grams,7.01,81.59,994.0,22.73,Grade A,1224153.04,PASS
+181205,BCH-4321,2024-12-21,Line 2,Nizamabad Turmeric Hub,Garam Masala,1277.41,kg,11.451,75.52,1403.9,34.86,Grade B,1135.94,PASS
+172399,BCH-6635,2023-05-30,Line 2,Tel Agro Mills,Turmeric Powder,1218.28,kg,9.778,78.83,1124.5,38.11,Grade D,965.3,FAIL
+246548,BCH-9556,2022-12-01,Line 1,Nizamabad Turmeric,Garam Masala,730864.18,grams,8.541,76.82,1368.9,44.42,Grade A,595586.6,PASS
+73792,BCH-5083,2024-12-18,Line 1,Malabar GM Guild,Garam Masala,1090.61,kg,10.583,77.15,1252.6,39.8,Grade B,1001.61,PASS
+269159,BCH-7820,2022-03-11,Line 3,HYD Spice Traders,Turmeric Powder,490.01,kg,8.652,86.04,1284.2,33.47,Grade B,448.44,FAIL
+114743,BCH-9085,2024-01-20,Line 2,Hyderabad Spice Traders,Garam Masala,1712.77,kg,6.675,65.26,1137.2,44.62,Grade B,1495.94,PASS
+247135,BCH-6081,2024-06-25,Line 1,Hyderabad Spice Traders,Turmeric Powder,1918.94,kg,8.913,82.56,1316.7,10.0,Grade B,1679.87,FAIL
+248982,BCH-8598,2022-11-30,Line 1,hyd spice traders,Chilli Powder,290.75,kg,5.872,75.41,1544.1,48.91,Grade B,245.26,PASS
+184922,BCH-7949,2022-04-20,Line 3,Telangana Agro Mills,Coriander Powder,1245343.64,grams,5.675,72.54,1442.6,32.11,Grade A,1047714.41,PASS
+54279,BCH-1374,2022-05-06,Line 3,Malabar Garam Masala Guild,Coriander Powder,454265.4,grams,11.667,65.95,1052.3,40.64,Grade A,368660.38,PASS
+196617,BCH-2921,2022-09-24,Line 1,Deccan Spice Organics,Chilli Powder,1072.62,kg,9.538,60.75,933.6,46.0,Grade B,1006.96,FAIL
+56908,BCH-0158,2022-04-08,Line 2,Nizam Turmeric Hub,Garam Masala,1903.39,kg,6.973,65.94,1156.6,36.97,Grade C,1719.47,PASS
+290045,BCH-2483,2022-03-22,Line 2,Telangana Agro Mill,Garam Masala,1872281.73,grams,8.241,63.9,1057.4,37.45,Grade A,1644522.01,FAIL
+204655,BCH-8632,2023-12-21,Line 2,Hyderabad Spice Traders,Garam Masala,674.51,kg,5.725,82.96,1089.6,19.62,Grade B,577.74,FAIL
+59491,BCH-1400,2022-08-16,Line 3,Nizamabad Turmeric Hub,Garam Masala,1387193.69,grams,7.778,77.53,1210.4,24.79,Grade C,1315350.52,PASS
+233856,BCH-0435,2023-02-10,Line 2,Nizamabad Turmeric,Garam Masala,1815.63,kg,7.794,79.14,1172.1,44.72,Grade B,1534.32,FAIL
+298012,BCH-7468,2022-07-11,Line 1,Guntur Spices Co,Chilli Powder,377731.75,grams,10.146,61.07,1013.0,37.58,Grade B,338003.3,PASS
+116996,BCH-4902,2024-08-31,Line 3,Malabar Garam Masala Guild,Garam Masala,520.14,kg,11.731,82.81,1107.0,38.93,Grade A,435.7,PASS
+35533,BCH-9274,2023-01-23,Line 3,Telangana Agro Mill,Garam Masala,346.4,kg,10.496,62.88,1167.3,28.02,Grade B,294.4,FAIL
+208921,BCH-3970,2023-12-02,Line 2,Guntur Spices Co,Turmeric Powder,422.99,kg,6.439,85.83,1271.8,20.83,Grade B,370.61,PASS
+50771,BCH-6273,2023-10-27,Line 2,Nizamabad Turmeric,Coriander Powder,757050.26,grams,4.813,88.56,1428.3,31.44,Grade B,651766.83,PASS
+270710,BCH-0074,2024-02-28,Line 3,Tel Agro Mills,Chilli Powder,690.77,kg,10.574,76.76,1216.5,45.83,Grade A,651.96,FAIL
+188848,BCH-1047,2023-10-23,Line 3,Deccan Spices Organics,Turmeric Powder,608.45,kg,9.529,78.4,1110.6,37.46,Grade A,535.79,PASS
+173192,BCH-2604,2023-11-25,Line 1,Nizamabad Turmeric,Turmeric Powder,837.63,kg,6.9,75.97,1079.7,24.84,Grade D,672.44,FAIL
+140491,BCH-4310,2024-07-02,Line 1,Telangana Agro Mill,Garam Masala,1678795.58,grams,7.622,62.16,1335.3,40.35,Grade C,1497102.04,FAIL
+295746,BCH-2024,2022-04-11,Line 3,Deccan Spice Organics,Chilli Powder,1159.5,kg,5.633,73.42,1146.7,42.62,Grade A,977.87,PASS
+225971,BCH-1867,2024-06-05,Line 2,Nizamabad Turmeric Hub,Garam Masala,815.96,kg,10.433,88.4,1234.9,16.9,Grade B,682.29,FAIL
+273678,BCH-5428,2022-08-01,Line 1,Tel Agro Mills,Chilli Powder,216.59,kg,4.573,73.33,1246.7,32.36,Grade A,196.28,PASS
+230636,BCH-7471,2024-01-14,Line 1,Telangana Agro Mills,Coriander Powder,1107645.04,grams,4.771,78.02,1223.3,34.22,Grade A,1035717.38,PASS
+145772,BCH-6807,2023-01-18,Line 1,Hyderabad Spice Trader,Garam Masala,349110.96,grams,9.912,84.55,1113.7,47.91,Grade B,304617.41,FAIL
+131207,BCH-8461,2022-04-06,Line 2,HYD Spice Traders,Chilli Powder,274.26,kg,11.694,76.85,1155.2,50.42,Grade A,222.94,PASS
+92108,BCH-6648,2024-01-01,Line 1,Deccan Spices Organics,Garam Masala,1300.22,kg,1.937,81.62,1122.5,10.25,Grade A,1208.6,FAIL
+229611,BCH-7249,2022-02-19,Line 3,Malabar Garam Masala Guild,Garam Masala,1098.0,kg,10.486,71.48,1407.9,31.88,Grade B,892.74,PASS
+29342,BCH-8816,2023-12-28,Line 1,Tel Agro Mills,Turmeric Powder,1914.35,kg,6.53,76.54,1192.8,49.57,Grade B,1746.78,FAIL
+140221,BCH-9387,2023-05-20,Line 2,Guntur Spice Co.,Garam Masala,1811039.01,grams,10.577,73.25,1442.7,29.51,Grade A,1513584.56,PASS
+85518,BCH-4438,2024-04-12,Line 2,Tel Agro Mills,Garam Masala,612696.72,grams,8.204,61.36,1396.0,41.99,Grade A,543225.87,FAIL
+281600,BCH-2547,2024-09-23,Line 1,Guntur Spice Co.,Chilli Powder,1435.95,kg,11.967,79.16,1318.6,26.62,Grade D,1176.05,FAIL
+27514,BCH-5526,2023-11-27,Line 2,HYD Spice Traders,Coriander Powder,1703770.82,grams,8.772,75.5,1101.1,36.57,Grade A,1556771.77,PASS
+169963,BCH-3727,2023-09-16,Line 1,Deccan Spices Organics,Garam Masala,1235.46,kg,4.938,67.51,1358.0,42.11,Grade D,1125.57,FAIL
+185071,BCH-1653,2023-02-03,Line 1,Deccan Organic Spices,Garam Masala,204135.37,grams,12.557,89.26,1193.5,25.66,Grade C,192833.61,FAIL
+205949,BCH-9025,2022-08-28,Line 2,Guntur Spice Co.,Turmeric Powder,243.48,kg,8.026,69.45,1222.0,30.16,Grade A,204.1,PASS
+223471,BCH-7631,2023-03-01,Line 3,Nizamabad Turmeric Hub,Coriander Powder,962.85,kg,6.477,80.82,1284.8,22.26,Grade B,916.9,PASS
+237975,BCH-3986,2022-12-25,Line 2,HYD Spice Traders,Chilli Powder,1298.16,kg,10.239,83.58,1508.4,25.65,Grade B,1197.07,PASS
+99901,BCH-7795,2024-03-21,Line 1,Guntur Spice Co.,Chilli Powder,606.96,kg,8.968,73.54,1348.9,27.08,Grade A,530.27,FAIL
+213343,BCH-4558,2022-01-29,Line 1,Telangana Agro Mills,Coriander Powder,377.62,kg,10.492,74.42,1370.4,24.55,Grade A,351.98,PASS
+201873,BCH-5952,2022-12-02,Line 3,Tel Agro Mills,Garam Masala,1204681.85,grams,7.71,69.44,1159.4,38.71,Grade D,1054152.06,FAIL
+181599,BCH-0071,2023-10-29,Line 3,Malabar Masala Guild,Turmeric Powder,1223717.28,grams,5.995,90.04,1263.0,20.27,Grade C,1114013.73,FAIL
+4257,BCH-3253,2022-08-22,Line 1,Nizamabad Turmeric,Turmeric Powder,468.74,kg,10.597,73.63,1318.3,16.24,Grade B,408.9,PASS
+108315,BCH-7859,2023-10-05,Line 1,Guntur Spice Co.,Garam Masala,1842.38,kg,7.577,63.11,1302.9,39.94,Grade B,1669.81,PASS
+187303,BCH-6876,2023-02-27,Line 1,Malabar Garam Masala Guild,Coriander Powder,1891.6,kg,6.76,72.35,1266.1,29.2,Grade B,1770.99,PASS
+175266,BCH-9025,2024-07-08,Line 3,Deccan Organic Spices,Coriander Powder,236.93,kg,9.63,75.25,1366.9,44.36,Grade A,195.26,PASS
+75578,BCH-8750,2022-08-03,Line 1,Guntur Spices Co,Turmeric Powder,1274649.71,grams,7.404,66.95,1359.3,30.8,Grade A,1133807.74,PASS
+32371,BCH-2900,2023-10-26,Line 1,Telangana Agro Mill,Turmeric Powder,723.2,kg,7.418,81.96,1247.7,27.62,Grade C,632.98,PASS
+73473,BCH-0166,2022-07-06,Line 1,Nizamabad Turmeric,Chilli Powder,945946.06,grams,6.243,69.84,1081.9,45.45,Grade B,833309.53,PASS
+128838,BCH-6409,2022-08-04,Line 1,Malabar GM Guild,Turmeric Powder,1028.52,kg,8.454,81.13,1234.6,29.9,Grade B,850.09,PASS
+75054,BCH-3737,2023-06-11,Line 1,Deccan Spice Organics,Chilli Powder,1180562.58,grams,10.012,71.18,1295.0,27.16,Grade A,1047113.31,PASS
+167387,BCH-7359,2022-03-07,Line 1,Malabar Garam Masala Guild,Chilli Powder,423.16,kg,4.405,77.92,1074.4,45.35,Grade B,362.14,PASS
+46654,BCH-9751,2022-07-03,Line 3,Deccan Spices Organics,Coriander Powder,740717.93,grams,8.221,83.41,1404.4,44.22,Grade A,676720.27,FAIL
+9432,BCH-0448,2022-11-21,Line 1,Telangana Agro Mill,Chilli Powder,710.68,kg,9.684,89.78,988.8,37.9,Grade B,628.35,FAIL
+292379,BCH-4067,2023-02-19,Line 2,Telangana Agro Mills,Garam Masala,642.78,kg,5.381,79.87,1201.7,31.64,Grade B,604.62,PASS
+38119,BCH-3165,2023-02-03,Line 2,Malabar Masala Guild,Turmeric Powder,901.38,kg,8.45,70.59,1384.1,36.76,Grade B,781.77,PASS
+229068,BCH-3608,2022-03-16,Line 2,hyd spice traders,Coriander Powder,313343.07,grams,10.153,77.74,1405.0,27.88,Grade C,252454.16,PASS
+223200,BCH-8083,2022-06-16,Line 3,Guntur Spices Company,Turmeric Powder,1954.99,kg,5.363,67.89,1035.1,30.08,Grade C,1775.94,FAIL
+110386,BCH-5714,2024-12-28,Line 2,Deccan Spices Organics,Turmeric Powder,830.16,kg,12.139,76.16,1467.5,26.64,Grade B,795.76,FAIL
+90903,BCH-6227,2022-06-09,Line 2,Telangana Agro Mills,Turmeric Powder,1520.25,kg,9.718,89.32,1193.2,34.19,Grade B,1298.66,PASS
+26011,BCH-2220,2023-02-02,Line 3,Nizam Turmeric Hub,Coriander Powder,1971190.7,grams,5.646,79.1,1226.5,34.83,Grade A,1748771.34,PASS
+188382,BCH-6308,2023-06-18,Line 2,Guntur Spices Company,Turmeric Powder,749.21,kg,5.012,72.37,1219.4,33.76,Grade B,685.7,FAIL
+102624,BCH-5207,2023-08-29,Line 3,Malabar GM Guild,Chilli Powder,765357.97,grams,8.415,78.87,1193.7,31.12,Grade A,624443.55,PASS
+172831,BCH-1398,2023-09-12,Line 3,Telangana Agro Mill,Chilli Powder,593.63,kg,9.908,69.92,1310.6,42.78,Grade C,508.44,PASS
+287457,BCH-6982,2023-07-13,Line 1,Nizamabad Turmeric Hub,Turmeric Powder,466.37,kg,7.023,80.73,1129.3,38.47,Grade A,406.56,PASS
+99177,BCH-9800,2024-05-23,Line 3,Malabar Garam Masala Guild,Garam Masala,710.48,kg,9.59,85.7,1198.4,33.68,Grade A,659.34,FAIL
+143839,BCH-2766,2022-05-23,Line 1,Guntur Spices Company,Garam Masala,1556326.2,grams,8.142,68.06,1128.0,22.48,Grade B,1313663.23,PASS
+238757,BCH-4026,2022-12-05,Line 1,Hyderabad Spice Traders,Garam Masala,316.41,kg,8.046,78.36,1203.4,15.22,Grade A,251.48,PASS
+83828,BCH-8598,2022-06-21,Line 1,Guntur Spices Company,Turmeric Powder,575.46,kg,9.536,73.22,1069.5,40.19,Grade B,535.72,FAIL
+198547,BCH-0702,2023-11-14,Line 1,Nizamabad Turmeric Hub,Chilli Powder,1551.89,kg,8.644,71.49,1010.5,23.81,Grade C,1386.7,PASS
+241367,BCH-6444,2024-03-26,Line 3,Nizam Turmeric Hub,Turmeric Powder,360.93,kg,7.099,64.91,1484.7,33.48,Grade C,293.58,FAIL
+148622,BCH-1694,2024-06-28,Line 3,Deccan Spices Organics,Coriander Powder,1438.59,kg,8.408,70.31,1204.2,34.31,Grade C,1147.8,PASS
+27484,BCH-0347,2023-09-29,Line 1,Nizamabad Turmeric Hub,Chilli Powder,818.89,kg,10.202,72.13,1045.5,29.42,Grade B,710.18,PASS
+120980,BCH-0373,2024-09-08,Line 2,Guntur Spices Co,Garam Masala,1589.64,kg,5.604,81.02,1535.1,33.49,Grade A,1427.78,PASS
+20167,BCH-7706,2022-04-15,Line 1,Malabar Garam Masala Guild,Turmeric Powder,1165.46,kg,9.088,77.38,1102.5,51.58,Grade A,945.71,PASS
+220540,BCH-6338,2022-03-21,Line 2,Malabar Garam Masala Guild,Turmeric Powder,1461.11,kg,6.659,72.06,900.0,35.59,Grade A,1346.08,FAIL
+189838,BCH-1276,2023-10-19,Line 2,Nizam Turmeric Hub,Chilli Powder,1640.39,kg,8.557,79.38,1488.7,38.45,Grade A,1424.83,PASS
+142007,BCH-5903,2023-12-18,Line 3,Nizamabad Turmeric Hub,Turmeric Powder,604.12,kg,8.523,73.38,1228.9,36.04,Grade B,557.97,PASS
+102860,BCH-7838,2023-08-31,Line 2,Guntur Spices Co,Turmeric Powder,1076.9,kg,10.053,64.79,1323.3,23.88,Grade A,930.81,PASS
+129346,BCH-4338,2024-02-01,Line 1,Hyderabad Spice Trader,Garam Masala,1285.54,kg,9.434,76.45,900.0,31.48,Grade A,1084.86,PASS
+98800,BCH-9499,2024-12-15,Line 1,Guntur Spices Company,Turmeric Powder,338.43,kg,14.028,73.54,1111.6,31.2,Grade C,290.72,FAIL
+281208,BCH-8727,2022-01-10,Line 2,Nizamabad Turmeric Hub,Turmeric Powder,1526.91,kg,9.225,78.51,1282.4,23.02,Grade A,1341.07,PASS
+189920,BCH-4543,2022-02-09,Line 1,Telangana Agro Mills,Garam Masala,1367.31,kg,9.801,80.27,1290.6,37.65,Grade B,1159.29,PASS
+30027,BCH-2479,2022-04-21,Line 2,Hyderabad Spice Trader,Turmeric Powder,1095.6,kg,9.442,75.25,1106.3,32.57,Grade C,931.07,FAIL
+229495,BCH-9359,2022-09-28,Line 3,Telangana Agro Mills,Chilli Powder,1642260.93,grams,8.13,71.28,1021.1,35.43,Grade C,1301431.7,FAIL
+156503,BCH-5084,2022-08-31,Line 2,Malabar Masala Guild,Garam Masala,1752285.31,grams,8.9,79.76,1437.2,24.09,Grade A,1424634.0,PASS
+2912,BCH-1638,2023-08-14,Line 3,Guntur Spices Co,Garam Masala,874.13,kg,5.499,68.49,1188.9,19.28,Grade A,714.26,PASS
+111307,BCH-9818,2024-03-27,Line 1,Guntur Spices Company,Coriander Powder,1566.79,kg,9.099,88.97,1324.9,29.75,Grade C,1335.06,PASS
+246118,BCH-7565,2024-08-18,Line 1,Deccan Organic Spices,Turmeric Powder,211.0,kg,6.934,68.94,979.3,18.04,Grade B,191.89,PASS
+271726,BCH-6826,2023-11-26,Line 1,Malabar GM Guild,Coriander Powder,1195828.7,grams,9.533,63.16,1159.4,50.71,Grade C,998374.46,FAIL
+299725,BCH-8083,2024-05-16,Line 3,Deccan Spices Organics,Coriander Powder,914834.83,grams,9.266,76.32,1026.3,32.49,Grade A,804636.08,PASS
+168155,BCH-3253,2024-06-23,Line 1,Telangana Agro Mill,Coriander Powder,1756.16,kg,12.616,71.05,1133.6,43.0,Grade A,1605.4,PASS
+48002,BCH-3216,2024-09-11,Line 2,Nizamabad Turmeric,Garam Masala,314.19,kg,9.703,85.82,1219.0,59.96,Grade B,291.94,FAIL
+77452,BCH-9095,2023-03-04,Line 2,Guntur Spices Co,Coriander Powder,1500758.85,grams,7.18,76.89,1450.8,29.81,Grade B,1253478.19,PASS
+103144,BCH-0297,2024-11-16,Line 2,Hyderabad Spice Trader,Chilli Powder,1559.05,kg,8.389,72.63,1473.1,32.63,Grade A,1469.81,PASS
+144940,BCH-6998,2022-03-22,Line 2,Malabar Garam Masala Guild,Turmeric Powder,1259.81,kg,9.826,90.63,1292.1,38.57,Grade B,1046.74,FAIL
+88103,BCH-4539,2022-12-03,Line 1,Malabar Garam Masala Guild,Chilli Powder,1731815.7,grams,4.762,79.31,1364.5,56.13,Grade B,1521186.39,PASS
+159537,BCH-7841,2022-09-24,Line 2,Guntur Spices Company,Garam Masala,1728294.67,grams,6.092,71.63,1179.7,28.84,Grade A,1522334.74,PASS
+89827,BCH-3127,2023-07-26,Line 3,Tel Agro Mills,Garam Masala,879.29,kg,12.27,64.51,1227.2,19.22,Grade B,768.23,FAIL
+293826,BCH-0179,2022-07-17,Line 3,Deccan Spice Organics,Chilli Powder,877967.06,grams,8.341,71.89,1376.0,36.89,Grade B,728252.21,PASS
+281654,BCH-8041,2024-08-18,Line 2,Nizamabad Turmeric,Chilli Powder,1579.58,kg,10.742,80.22,962.9,40.03,Grade B,1331.42,PASS
+162483,BCH-1160,2023-12-30,Line 2,Guntur Spices Co,Chilli Powder,624.08,kg,17.686,87.71,1421.7,40.63,Grade A,544.53,FAIL
+58530,BCH-2021,2024-02-13,Line 3,Telangana Agro Mill,Coriander Powder,916.98,kg,5.21,71.74,1183.9,25.14,Grade B,744.75,FAIL
+256470,BCH-9176,2022-08-20,Line 2,Guntur Spices Company,Coriander Powder,1410223.14,grams,5.443,69.73,1492.1,39.29,Grade A,1318998.55,PASS
+143110,BCH-6343,2023-08-02,Line 2,Malabar Garam Masala Guild,Garam Masala,224.54,kg,6.99,69.34,1373.8,31.5,Grade A,191.87,FAIL
+185655,BCH-3165,2022-11-17,Line 2,Nizam Turmeric Hub,Coriander Powder,1591.28,kg,9.103,79.63,1282.3,29.83,Grade A,1489.17,PASS
+242639,BCH-6079,2024-01-24,Line 2,Guntur Spices Company,Coriander Powder,350.6,kg,7.061,83.84,1207.4,29.23,Grade A,305.58,PASS
+42976,BCH-9805,2023-09-13,Line 1,Nizamabad Turmeric Hub,Garam Masala,1469.05,kg,5.482,79.69,1288.9,35.38,Grade C,1256.12,FAIL
+223120,BCH-2459,2024-10-21,Line 3,Tel Agro Mills,Turmeric Powder,811877.45,grams,5.853,76.12,1100.6,36.83,Grade B,690734.73,PASS
+188334,BCH-4905,2024-08-15,Line 2,Tel Agro Mills,Chilli Powder,666.83,kg,8.212,73.37,947.9,33.19,Grade C,576.58,FAIL
+126441,BCH-9027,2023-09-27,Line 3,Nizamabad Turmeric,Coriander Powder,531.87,kg,8.587,83.41,1141.1,18.43,Grade B,482.32,FAIL
+78080,BCH-7207,2022-12-21,Line 2,Telangana Agro Mills,Garam Masala,276.24,kg,5.729,71.37,1269.5,37.92,Grade B,225.51,PASS
+106299,BCH-3104,2022-09-30,Line 1,Telangana Agro Mill,Garam Masala,833.48,kg,6.932,58.22,1068.6,23.74,Grade B,688.18,FAIL
+178971,BCH-1403,2023-04-30,Line 3,Telangana Agro Mills,Garam Masala,879.04,kg,11.824,79.89,1535.5,39.46,Grade B,778.89,FAIL
+190845,BCH-7786,2022-12-07,Line 3,Malabar Masala Guild,Chilli Powder,1769.91,kg,10.96,69.35,1172.1,30.56,Grade A,1511.12,PASS
+244324,BCH-7890,2023-02-03,Line 3,Deccan Organic Spices,Coriander Powder,1295.43,kg,7.492,75.4,1374.3,44.67,Grade A,1112.26,FAIL
+239334,BCH-0517,2024-06-25,Line 2,Hyderabad Spice Traders,Turmeric Powder,870.53,kg,8.982,64.65,1138.3,39.77,Grade C,746.81,FAIL
+78045,BCH-7723,2023-09-24,Line 3,Nizamabad Turmeric,Chilli Powder,996.77,kg,8.836,76.43,1191.1,26.73,Grade B,822.61,PASS
+299588,BCH-2313,2022-11-17,Line 2,Deccan Spices Organics,Garam Masala,948988.87,grams,9.293,74.87,1264.4,21.73,Grade B,817608.71,PASS
+60591,BCH-9818,2024-10-22,Line 3,Malabar Masala Guild,Chilli Powder,309.92,kg,11.682,76.04,1471.2,45.84,Grade C,257.11,FAIL
+165564,BCH-6776,2022-07-15,Line 2,HYD Spice Traders,Chilli Powder,769013.08,grams,7.254,80.71,1157.2,25.39,Grade C,633455.81,PASS
+78930,BCH-5354,2023-01-22,Line 1,Nizamabad Turmeric Hub,Chilli Powder,1329.11,kg,7.889,77.61,1199.1,20.6,Grade A,1229.98,PASS
+276406,BCH-0220,2024-09-14,Line 2,Malabar Masala Guild,Chilli Powder,381481.55,grams,10.872,80.26,1348.3,36.86,Grade B,331144.55,PASS
+265633,BCH-7092,2024-11-14,Line 2,Guntur Spices Company,Chilli Powder,1028.1,kg,3.694,85.98,1406.4,36.28,Grade C,933.82,PASS
+97968,BCH-5743,2023-05-13,Line 1,Nizam Turmeric Hub,Chilli Powder,1972.89,kg,5.897,74.18,1167.6,35.87,Grade C,1812.32,FAIL
+158990,BCH-2192,2022-09-14,Line 2,Malabar Masala Guild,Turmeric Powder,1073.4,kg,7.347,93.61,924.6,25.73,Grade B,879.88,PASS
+213051,BCH-1829,2022-06-20,Line 3,HYD Spice Traders,Coriander Powder,1849578.62,grams,12.996,69.79,1090.5,40.36,Grade A,1573063.52,FAIL
+2098,BCH-3316,2023-07-13,Line 2,Deccan Spice Organics,Garam Masala,961.01,kg,6.852,69.5,1437.0,46.04,Grade C,781.09,PASS
+74838,BCH-3637,2024-03-17,Line 2,Telangana Agro Mills,Chilli Powder,674401.25,grams,9.601,71.34,1417.6,24.01,Grade A,613974.5,PASS
+139082,BCH-1916,2022-05-10,Line 1,Telangana Agro Mill,Coriander Powder,1435285.47,grams,9.323,83.7,1102.9,47.56,Grade C,1236543.67,FAIL
+2415,BCH-7020,2022-02-21,Line 1,Hyderabad Spice Traders,Chilli Powder,1809876.27,grams,9.786,77.98,1345.7,19.41,Grade A,1590326.93,PASS
+174824,BCH-7061,2023-02-15,Line 2,Hyderabad Spice Trader,Turmeric Powder,575.91,kg,7.739,79.35,1321.6,34.89,Grade B,495.5,PASS
+253764,BCH-4321,2023-07-19,Line 3,Telangana Agro Mill,Turmeric Powder,1093.41,kg,11.596,85.16,1315.2,39.09,Grade C,913.39,FAIL
+124197,BCH-3356,2024-01-02,Line 2,Telangana Agro Mill,Chilli Powder,1075.1,kg,4.599,74.73,1275.7,30.48,Grade A,886.5,FAIL
+195028,BCH-5470,2024-09-19,Line 2,Deccan Spices Organics,Coriander Powder,583204.07,grams,10.55,88.14,1131.5,59.11,Grade D,479885.51,FAIL
+160933,BCH-1276,2023-05-30,Line 2,Malabar Masala Guild,Coriander Powder,1683.48,kg,8.721,93.67,1233.6,42.96,Grade A,1461.72,PASS
+261351,BCH-3212,2024-03-05,Line 1,Tel Agro Mills,Chilli Powder,781.32,kg,9.721,67.32,1147.1,36.51,Grade B,648.42,PASS
+161766,BCH-7398,2023-06-15,Line 3,Deccan Spices Organics,Turmeric Powder,869.8,kg,10.786,72.16,1017.5,26.83,Grade A,759.18,PASS
+160722,BCH-1644,2023-01-30,Line 2,Guntur Spices Company,Coriander Powder,1309.55,kg,4.661,64.2,1233.8,38.98,Grade C,1067.07,FAIL
+57367,BCH-8745,2024-06-14,Line 1,Telangana Agro Mills,Chilli Powder,1980.61,kg,7.999,77.09,1088.3,26.98,Grade A,1773.66,FAIL
+12650,BCH-7486,2023-04-16,Line 2,Guntur Spices Co,Chilli Powder,1264512.43,grams,11.311,78.53,1229.9,24.83,Grade B,1048711.15,FAIL
+44908,BCH-6444,2022-11-06,Line 1,Guntur Spices Company,Turmeric Powder,936.16,kg,1.0,65.58,1463.9,37.36,Grade B,797.85,PASS
+113161,BCH-6260,2022-12-08,Line 1,Guntur Spice Co.,Coriander Powder,1061070.62,grams,10.434,73.26,1127.2,28.73,Grade D,956137.01,FAIL
+70106,BCH-1944,2023-02-22,Line 2,Guntur Spice Co.,Chilli Powder,670.7,kg,11.997,85.69,980.0,29.35,Grade B,622.68,FAIL
+167948,BCH-0571,2023-10-29,Line 1,Deccan Spice Organics,Turmeric Powder,1414.51,kg,9.703,82.77,1346.9,41.26,Grade B,1129.48,PASS
+23885,BCH-0573,2023-01-18,Line 3,Guntur Spices Co,Turmeric Powder,1491.56,kg,9.773,79.4,987.9,49.44,Grade A,1393.77,FAIL
+193526,BCH-9691,2022-09-20,Line 1,Guntur Spice Co.,Turmeric Powder,1796857.2,grams,8.407,71.46,1154.4,37.65,Grade B,1699633.79,PASS
+137160,BCH-4876,2023-02-11,Line 1,Nizam Turmeric Hub,Turmeric Powder,667.45,kg,7.808,62.71,1478.8,47.52,Grade C,563.4,FAIL
+99358,BCH-2337,2023-01-27,Line 2,Deccan Organic Spices,Chilli Powder,1225251.78,grams,8.4,75.44,1480.5,37.22,Grade C,1088655.48,FAIL
+14383,BCH-2665,2022-08-14,Line 3,Hyderabad Spice Traders,Coriander Powder,257.45,kg,11.767,87.1,1270.5,34.11,Grade B,221.36,FAIL
+119975,BCH-3343,2023-12-26,Line 1,Malabar Masala Guild,Coriander Powder,1064.45,kg,12.725,70.01,1386.5,25.37,Grade B,900.71,FAIL
+142720,BCH-2329,2022-12-30,Line 1,Guntur Spice Co.,Coriander Powder,289031.8,grams,13.402,76.13,1301.2,28.98,Grade C,267227.78,FAIL
+117936,BCH-4101,2024-02-18,Line 1,Deccan Spice Organics,Coriander Powder,750.82,kg,10.745,75.02,1180.6,38.15,Grade C,702.05,PASS
+298170,BCH-7311,2022-11-24,Line 3,Telangana Agro Mills,Chilli Powder,1619148.6,grams,9.56,67.57,1210.1,37.65,Grade B,1347286.16,PASS
+166570,BCH-5127,2022-03-18,Line 3,Malabar GM Guild,Turmeric Powder,1425814.2,grams,10.297,82.9,1188.0,59.08,Grade B,1148263.75,FAIL
+133554,BCH-1703,2024-01-30,Line 1,Malabar GM Guild,Coriander Powder,1463.23,kg,9.979,62.63,1459.9,41.64,Grade B,1324.74,PASS
+214426,BCH-3584,2023-04-24,Line 3,HYD Spice Traders,Garam Masala,493.84,kg,8.403,81.91,1234.1,17.41,Grade A,404.65,PASS
+168264,BCH-1747,2024-12-31,Line 3,Deccan Spice Organics,Chilli Powder,446.92,kg,11.144,79.64,1308.8,25.23,Grade A,359.87,PASS
+76944,BCH-5207,2024-07-05,Line 3,Telangana Agro Mills,Coriander Powder,673695.15,grams,6.902,83.65,1049.3,29.04,Grade A,627853.97,PASS
+284224,BCH-6750,2024-11-17,Line 1,Nizamabad Turmeric Hub,Garam Masala,1390.86,kg,5.476,75.89,1283.7,21.48,Grade A,1255.56,PASS
+175109,BCH-5327,2023-03-11,Line 3,Nizamabad Turmeric,Turmeric Powder,735.61,kg,7.333,85.82,1055.3,33.56,Grade B,656.18,FAIL
+233406,BCH-5232,2022-11-25,Line 3,Hyderabad Spice Traders,Turmeric Powder,752.02,kg,11.166,74.29,1066.5,42.33,Grade A,646.29,PASS
+60266,BCH-7257,2023-08-18,Line 3,Guntur Spices Company,Turmeric Powder,823.9,kg,6.913,74.48,1355.3,32.98,Grade B,703.71,PASS
+37681,BCH-2921,2024-02-02,Line 3,Deccan Spices Organics,Coriander Powder,261469.87,grams,5.648,81.95,1583.6,32.34,Grade D,218461.48,FAIL
+141990,BCH-3172,2024-08-28,Line 3,Malabar Masala Guild,Chilli Powder,756837.34,grams,8.012,78.54,1331.6,41.81,Grade C,659590.93,PASS
+225005,BCH-2723,2022-03-17,Line 3,Malabar Garam Masala Guild,Garam Masala,386392.16,grams,10.739,67.16,1441.5,32.02,Grade A,319483.97,PASS
+276233,BCH-1774,2023-10-11,Line 1,Guntur Spices Co,Coriander Powder,1089936.3,grams,3.922,67.59,1416.7,34.17,Grade A,982010.48,PASS
+220271,BCH-2948,2024-12-04,Line 1,Malabar Masala Guild,Coriander Powder,1270.64,kg,8.648,73.94,1329.2,36.36,Grade A,1184.76,PASS
+120933,BCH-4245,2022-02-27,Line 2,Telangana Agro Mill,Turmeric Powder,367.37,kg,8.512,76.32,1144.4,26.32,Grade D,339.34,FAIL
+298101,BCH-9154,2023-04-10,Line 3,Malabar Masala Guild,Chilli Powder,788432.45,grams,11.219,79.62,1373.4,31.3,Grade A,740380.32,FAIL
+39004,BCH-3481,2022-04-15,Line 2,hyd spice traders,Garam Masala,1357.15,kg,7.068,68.55,1374.6,31.45,Grade A,1174.98,PASS
+96864,BCH-5404,2022-08-09,Line 3,Nizamabad Turmeric,Chilli Powder,477.68,kg,7.85,75.88,1088.0,39.91,Grade A,435.11,PASS
+264056,BCH-6776,2022-09-04,Line 2,Guntur Spice Co.,Chilli Powder,446338.24,grams,8.6,70.96,1360.6,25.0,Grade C,363998.24,PASS
+17193,BCH-7398,2022-08-30,Line 3,Telangana Agro Mills,Garam Masala,1158.05,kg,8.921,72.81,1491.7,30.58,Grade B,1084.06,FAIL
+139813,BCH-3187,2022-06-06,Line 2,Hyderabad Spice Traders,Coriander Powder,1444.71,kg,8.41,75.52,1265.6,40.65,Grade B,1290.23,FAIL
+151952,BCH-8310,2023-11-26,Line 3,Guntur Spices Co,Garam Masala,209.63,kg,6.768,71.58,1540.8,37.45,Grade A,173.28,PASS
+80073,BCH-2337,2022-05-13,Line 1,Guntur Spices Company,Chilli Powder,851.89,kg,10.551,76.62,1275.7,40.96,Grade C,724.48,PASS
+229643,BCH-7629,2022-10-09,Line 1,Nizamabad Turmeric,Chilli Powder,1234.42,kg,10.879,83.89,1503.9,38.84,Grade C,1121.93,FAIL
+78359,BCH-8083,2022-09-20,Line 1,Deccan Spices Organics,Coriander Powder,697.78,kg,5.452,79.47,1034.5,32.76,Grade A,618.19,PASS
+59425,BCH-5882,2024-03-12,Line 1,Deccan Organic Spices,Chilli Powder,1968644.45,grams,9.363,87.23,1273.5,28.35,Grade C,1589229.08,FAIL
+157422,BCH-7927,2023-04-28,Line 1,Nizam Turmeric Hub,Chilli Powder,1606.32,kg,9.32,67.6,1183.0,41.78,Grade A,1508.74,FAIL
+176782,BCH-4815,2024-08-01,Line 1,Deccan Spices Organics,Coriander Powder,322.92,kg,7.265,74.26,1294.1,18.58,Grade A,258.69,PASS
+39795,BCH-6807,2023-02-28,Line 2,Telangana Agro Mill,Garam Masala,1834.02,kg,7.577,75.02,1293.1,25.15,Grade C,1647.59,FAIL
+240417,BCH-7233,2024-05-01,Line 2,hyd spice traders,Chilli Powder,1911558.77,grams,12.177,69.91,1130.0,68.51,Grade C,1544318.02,FAIL
+242238,BCH-3750,2024-10-07,Line 1,Nizamabad Turmeric,Coriander Powder,306516.62,grams,11.448,83.23,1050.5,15.12,Grade A,272441.4,PASS
+263348,BCH-6425,2022-07-13,Line 2,Deccan Spice Organics,Turmeric Powder,1517.75,kg,10.949,82.1,1001.5,28.93,Grade C,1396.96,FAIL
+66829,BCH-1694,2022-06-12,Line 3,Malabar Masala Guild,Turmeric Powder,254.95,kg,10.015,76.66,1129.2,39.95,Grade B,225.69,PASS
+67684,BCH-6081,2022-10-26,Line 2,Guntur Spices Company,Coriander Powder,1261.3,kg,7.718,85.08,1400.5,40.65,Grade A,1069.95,FAIL
+281911,BCH-8810,2022-05-12,Line 1,Telangana Agro Mills,Coriander Powder,343.07,kg,10.2,59.61,1345.0,31.57,Grade B,306.87,PASS
+60240,BCH-2329,2023-12-18,Line 1,Guntur Spice Co.,Chilli Powder,671.43,kg,9.62,90.81,1257.2,19.13,Grade B,575.54,PASS
+202906,BCH-9691,2024-10-30,Line 1,Deccan Organic Spices,Garam Masala,580.52,kg,5.191,84.01,1194.6,50.25,Grade C,466.03,FAIL
+135224,BCH-7096,2022-01-19,Line 1,hyd spice traders,Coriander Powder,1847.61,kg,4.103,85.82,1492.4,16.83,Grade D,1660.18,FAIL
+116933,BCH-6931,2022-08-07,Line 1,Deccan Spices Organics,Turmeric Powder,1366.62,kg,7.955,80.4,1368.5,40.23,Grade B,1140.09,PASS
+42455,BCH-0990,2023-06-09,Line 2,Tel Agro Mills,Turmeric Powder,1975.33,kg,14.214,69.91,931.8,28.87,Grade A,1863.3,FAIL
+1324,BCH-0082,2024-08-26,Line 2,Hyderabad Spice Trader,Turmeric Powder,1236.47,kg,14.004,86.43,1436.8,33.77,Grade C,1078.49,FAIL
+115594,BCH-1416,2024-05-03,Line 2,Nizamabad Turmeric Hub,Chilli Powder,1125.86,kg,6.643,82.3,1519.3,36.84,Grade B,1016.35,PASS
+270715,BCH-6528,2023-08-25,Line 1,Telangana Agro Mill,Turmeric Powder,889.03,kg,7.881,67.79,1077.3,39.43,Grade C,711.51,PASS
+284948,BCH-4130,2024-11-11,Line 3,Malabar GM Guild,Garam Masala,496.07,kg,9.274,66.89,1352.7,27.43,Grade A,407.88,PASS
+209918,BCH-1603,2024-01-09,Line 1,Malabar Garam Masala Guild,Coriander Powder,1922.26,kg,9.425,74.81,1224.2,34.99,Grade A,1685.81,PASS
+49208,BCH-8337,2024-06-22,Line 2,Deccan Organic Spices,Chilli Powder,1937.57,kg,12.483,73.88,1411.9,37.93,Grade B,1764.58,FAIL
+159122,BCH-5082,2023-10-25,Line 1,Nizamabad Turmeric Hub,Chilli Powder,204.63,kg,9.617,67.56,1364.2,42.22,Grade C,169.48,FAIL
+281304,BCH-8016,2022-01-23,Line 3,Telangana Agro Mills,Garam Masala,426112.15,grams,4.818,84.49,1410.5,30.57,Grade C,378347.31,FAIL
+256674,BCH-5890,2024-10-31,Line 1,Nizam Turmeric Hub,Garam Masala,1805.02,kg,9.87,72.82,1438.8,22.75,Grade A,1551.44,FAIL
+266965,BCH-3124,2022-11-08,Line 3,Nizamabad Turmeric,Chilli Powder,1210.18,kg,12.63,79.13,1245.7,15.97,Grade B,1105.25,FAIL
+65223,BCH-7232,2022-05-15,Line 3,Deccan Organic Spices,Garam Masala,416.51,kg,10.763,67.39,1141.0,37.61,Grade C,391.79,PASS
+79029,BCH-2921,2023-08-05,Line 3,Deccan Spice Organics,Chilli Powder,298.03,kg,5.489,81.91,1059.5,56.23,Grade D,250.69,FAIL
+89909,BCH-6371,2024-08-17,Line 3,Hyderabad Spice Trader,Coriander Powder,307806.43,grams,10.246,81.24,1092.8,31.99,Grade A,268151.96,FAIL
+71992,BCH-7794,2023-01-03,Line 3,Malabar GM Guild,Coriander Powder,831.64,kg,9.574,73.55,1135.5,29.5,Grade B,745.38,PASS
+253744,BCH-6570,2024-08-29,Line 3,Telangana Agro Mill,Turmeric Powder,1228.78,kg,11.102,62.53,1139.2,40.08,Grade C,1056.73,FAIL
+64308,BCH-1779,2022-02-23,Line 3,Tel Agro Mills,Chilli Powder,1990.0,kg,7.494,84.21,1180.1,36.85,Grade A,1768.29,PASS
+263516,BCH-8429,2024-09-22,Line 1,hyd spice traders,Garam Masala,1586256.61,grams,9.374,79.1,1040.9,51.01,Grade A,1359427.76,PASS
+15036,BCH-4313,2024-08-16,Line 2,Guntur Spices Co,Coriander Powder,939784.06,grams,8.628,63.82,1135.7,39.38,Grade D,883180.63,FAIL
+22339,BCH-3736,2023-07-08,Line 3,Telangana Agro Mills,Garam Masala,958.54,kg,8.271,83.3,1355.3,34.57,Grade B,826.04,PASS
+204805,BCH-0849,2024-12-31,Line 2,Guntur Spices Company,Coriander Powder,723.46,kg,8.701,76.97,1222.0,37.5,Grade A,666.84,PASS
+180878,BCH-8408,2022-08-02,Line 1,Telangana Agro Mill,Chilli Powder,1171.72,kg,5.147,70.79,1036.0,36.59,Grade B,1089.84,PASS
+193927,BCH-8282,2023-06-28,Line 1,Hyderabad Spice Traders,Chilli Powder,1942.04,kg,5.005,71.92,1600.0,28.72,Grade A,1708.17,FAIL
+4222,BCH-1346,2022-11-21,Line 2,Nizamabad Turmeric,Chilli Powder,741.13,kg,7.952,64.01,1030.0,17.28,Grade A,705.19,FAIL
+46949,BCH-1706,2023-06-08,Line 2,Hyderabad Spice Traders,Turmeric Powder,413534.01,grams,7.504,84.3,1144.3,38.31,Grade A,347870.05,PASS
+293674,BCH-6861,2024-01-17,Line 2,Tel Agro Mills,Garam Masala,1434.06,kg,7.005,78.81,1232.2,42.91,Grade A,1203.87,PASS
+161671,BCH-8216,2023-03-20,Line 3,Nizamabad Turmeric Hub,Garam Masala,1312450.3,grams,9.387,83.02,1370.1,24.83,Grade B,1135717.33,PASS
+20924,BCH-0438,2024-06-08,Line 2,HYD Spice Traders,Turmeric Powder,1598.5,kg,9.837,76.29,1379.2,30.63,Grade B,1426.2,PASS
+213937,BCH-2706,2023-06-05,Line 1,HYD Spice Traders,Chilli Powder,361.26,kg,11.115,73.93,1373.1,40.62,Grade B,331.6,PASS
+44340,BCH-0450,2022-04-12,Line 3,Guntur Spice Co.,Coriander Powder,1564.41,kg,6.966,88.85,1309.6,39.88,Grade B,1307.2,PASS
+213698,BCH-8685,2022-11-02,Line 2,Malabar Garam Masala Guild,Coriander Powder,1137.62,kg,13.34,84.97,1250.1,24.93,Grade B,977.12,FAIL
+86308,BCH-0228,2023-10-17,Line 2,Hyderabad Spice Trader,Chilli Powder,757.86,kg,6.045,73.82,1253.0,37.58,Grade C,706.76,PASS
+120740,BCH-7631,2022-06-02,Line 2,Deccan Organic Spices,Chilli Powder,1921.17,kg,10.063,80.62,910.8,28.31,Grade A,1539.64,FAIL
+255720,BCH-1653,2023-02-06,Line 2,Guntur Spices Co,Garam Masala,1074.52,kg,10.259,74.54,1278.3,37.98,Grade B,909.82,PASS
+126484,BCH-9400,2023-03-17,Line 1,Telangana Agro Mill,Garam Masala,1150819.17,grams,10.897,72.74,1224.9,17.73,Grade B,973800.02,PASS
+157511,BCH-0474,2022-06-22,Line 1,Nizamabad Turmeric,Garam Masala,1421.35,kg,9.166,60.49,1092.3,44.94,Grade B,1164.88,FAIL
+229845,BCH-3316,2023-11-01,Line 1,Telangana Agro Mills,Garam Masala,1074.85,kg,10.098,72.68,1123.3,32.08,Grade B,877.11,PASS
+254772,BCH-2994,2024-04-17,Line 3,Deccan Spice Organics,Chilli Powder,629.76,kg,10.736,75.12,1236.5,16.66,Grade B,578.0,PASS
+66164,BCH-1382,2022-03-22,Line 3,Nizamabad Turmeric,Turmeric Powder,1210.13,kg,5.207,66.32,1222.1,26.82,Grade B,1076.48,PASS
+13704,BCH-5050,2022-11-17,Line 1,Nizamabad Turmeric Hub,Chilli Powder,1321255.45,grams,7.112,65.51,1257.5,61.47,Grade B,1187069.27,PASS
+26769,BCH-5483,2023-11-10,Line 1,Guntur Spices Co,Garam Masala,807.1,kg,6.712,53.1,1241.2,33.38,Grade A,683.51,FAIL
+226646,BCH-7729,2024-08-01,Line 3,Telangana Agro Mill,Turmeric Powder,312.26,kg,10.078,76.0,1086.1,31.95,Grade B,292.26,PASS
+135925,BCH-5036,2023-10-17,Line 1,Nizam Turmeric Hub,Chilli Powder,1713.58,kg,4.466,73.0,1399.3,34.17,Grade C,1512.47,PASS
+92938,BCH-6177,2024-07-22,Line 2,Malabar GM Guild,Coriander Powder,739.71,kg,6.248,74.95,1206.6,44.62,Grade C,657.21,PASS
+187094,BCH-9525,2022-11-14,Line 1,Nizamabad Turmeric,Turmeric Powder,1592130.86,grams,3.82,87.85,1416.8,33.6,Grade B,1345085.89,PASS
+71655,BCH-6124,2024-08-13,Line 2,Deccan Spices Organics,Coriander Powder,564776.21,grams,8.617,78.64,1222.5,35.49,Grade B,483858.15,PASS
+67658,BCH-1146,2023-04-18,Line 2,Telangana Agro Mill,Coriander Powder,520418.63,grams,9.07,77.77,1489.5,38.98,Grade B,442383.12,PASS
+36359,BCH-7787,2022-09-08,Line 1,Guntur Spices Company,Chilli Powder,1714.11,kg,9.757,64.75,972.4,46.9,Grade A,1619.78,FAIL
+202250,BCH-1228,2024-01-14,Line 1,Malabar Masala Guild,Turmeric Powder,1226.95,kg,8.588,83.67,1481.9,33.35,Grade A,1021.79,PASS
+162341,BCH-3284,2023-08-03,Line 3,Deccan Spices Organics,Chilli Powder,802.15,kg,6.513,66.93,1037.2,45.04,Grade C,713.55,PASS
+208863,BCH-3000,2024-04-02,Line 1,Nizamabad Turmeric,Turmeric Powder,311305.08,grams,7.153,83.12,1145.0,45.79,Grade A,275377.17,FAIL
+295465,BCH-7794,2022-07-06,Line 1,Nizamabad Turmeric Hub,Coriander Powder,877.46,kg,7.902,83.97,1478.1,33.66,Grade B,709.09,FAIL
+274434,BCH-5045,2024-10-17,Line 3,Malabar Masala Guild,Chilli Powder,1263.06,kg,7.362,68.56,1294.2,34.68,Grade C,1038.02,FAIL
+139546,BCH-9823,2022-09-03,Line 2,Hyderabad Spice Trader,Chilli Powder,441.73,kg,9.126,65.82,1382.9,32.16,Grade C,365.69,PASS
+201542,BCH-6657,2023-04-05,Line 2,Malabar Garam Masala Guild,Chilli Powder,281.61,kg,7.228,81.38,1360.5,31.83,Grade A,229.54,PASS
+103637,BCH-2326,2022-07-25,Line 1,Deccan Spices Organics,Turmeric Powder,1621.02,kg,9.167,74.59,1252.7,22.09,Grade B,1288.71,FAIL
+284819,BCH-0490,2022-06-21,Line 3,Guntur Spice Co.,Chilli Powder,312233.98,grams,4.683,80.94,943.3,18.4,Grade A,278130.55,PASS
+93505,BCH-8836,2023-03-24,Line 2,HYD Spice Traders,Garam Masala,835082.71,grams,4.161,75.87,946.1,48.1,Grade B,779201.29,FAIL
+39253,BCH-7427,2022-06-05,Line 1,Malabar Garam Masala Guild,Chilli Powder,948.13,kg,11.987,61.64,1250.7,40.97,Grade A,814.12,FAIL
+149240,BCH-8575,2024-07-18,Line 2,Guntur Spices Company,Turmeric Powder,944921.02,grams,6.305,69.98,1217.2,40.14,Grade B,815729.38,FAIL
+32968,BCH-7233,2024-11-20,Line 3,Telangana Agro Mill,Turmeric Powder,240.97,kg,6.465,70.59,1084.2,23.82,Grade B,202.71,PASS

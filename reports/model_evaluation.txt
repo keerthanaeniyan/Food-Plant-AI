@@ -1,0 +1,59 @@
+======================================================================
+FOOD PLANT AI — Model Evaluation Report
+Generated: 2026-11-17 21:03:40.205429
+======================================================================
+
+Best Model: Gradient Boosting
+Selection criterion: highest (FAIL_Recall × F1_weighted)
+
+─── Logistic Regression ───
+  Accuracy:            0.7112
+  Precision (weighted):0.7108
+  Recall (weighted):   0.7112
+  F1 (weighted):       0.6934
+  ROC-AUC:             0.7374
+  FAIL-class Recall:   0.4429
+  Avg Inference (ms):  0.7547
+  Training Time (s):   0.17
+  Confusion Matrix:
+[[ 7788  9796]
+ [ 3198 24218]]
+
+─── Decision Tree ───
+  Accuracy:            0.7102
+  Precision (weighted):0.7101
+  Recall (weighted):   0.7102
+  F1 (weighted):       0.6916
+  ROC-AUC:             0.7380
+  FAIL-class Recall:   0.4370
+  Avg Inference (ms):  0.5994
+  Training Time (s):   1.88
+  Confusion Matrix:
+[[ 7685  9899]
+ [ 3144 24272]]
+
+─── Random Forest ───
+  Accuracy:            0.7135
+  Precision (weighted):0.7137
+  Recall (weighted):   0.7135
+  F1 (weighted):       0.6956
+  ROC-AUC:             0.7441
+  FAIL-class Recall:   0.4445
+  Avg Inference (ms):  38.5308
+  Training Time (s):   4.36
+  Confusion Matrix:
+[[ 7816  9768]
+ [ 3124 24292]]
+
+─── Gradient Boosting ───
+  Accuracy:            0.7132
+  Precision (weighted):0.7129
+  Recall (weighted):   0.7132
+  F1 (weighted):       0.6958
+  ROC-AUC:             0.7446
+  FAIL-class Recall:   0.4474
+  Avg Inference (ms):  0.7365
+  Training Time (s):   116.41
+  Confusion Matrix:
+[[ 7867  9717]
+ [ 3189 24227]]

@@ -1,0 +1,16 @@
+Column,Type,Description
+Record_ID,Integer,Unique sequential record identifier
+Batch_ID,String,"Production batch identifier (BCH-XXXX); ~2000 unique values, intentionally reused across records"
+Production_Date,Date (YYYY-MM-DD),"Date of production, ranging 2022-01-01 to 2024-12-31"
+Production_Line,Categorical,"Manufacturing line: Line 1, Line 2, or Line 3"
+Supplier_Name,String,Raw material supplier name; intentionally inconsistent casing/spelling for cleaning challenge
+Spice_Type,Categorical,"Product type: Chilli Powder, Turmeric Powder, Coriander Powder, or Garam Masala"
+Raw_Material_Weight,Float,"Weight of raw material input; 200-2000 for kg, 200000-2000000 for grams"
+Weight_Unit,Categorical,Unit of weight: 'kg' (70%) or 'grams' (30%)
+Moisture_Level,Float,Moisture content percentage [1-20]; ~5% values missing (NaN)
+Machine_Temperature,Float,Processing machine temperature in °C [50-110]; ~3% values missing (NaN)
+Machine_Speed,Float,Machine rotation speed in RPM [900-1600]
+Production_Time,Float,Total production batch time in minutes [10-90]
+Raw_Material_Quality,Categorical,"Quality grade of incoming raw material: Grade A (40%), B (35%), C (20%), D (5%)"
+Final_Product_Weight,Float,Weight of finished product after processing; same unit as Raw_Material_Weight; conversion factor 0.80-0.95
+Quality_Result,Categorical,"Final QC result: PASS or FAIL. Determined by logistic model of risk factors (moisture, temperature, speed, time, grade). Target ~25-30% FAIL rate"

@@ -1,0 +1,30 @@
+# Python environment
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local databases and temporary files
+*.db-journal
+*.db-wal
+*.db-shm
+backups/*.db
+
+# Large synthetic dataset files (can be regenerated using src/data_generator.py)
+# Keeping sample_data.csv committed for demonstration
+data/raw_production_data.csv
+data/cleaned_production_data.csv
+
+# System files
+.DS_Store
+Thumbs.db
